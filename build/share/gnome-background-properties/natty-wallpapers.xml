@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu 11.04 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/contest/natty.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Aeg</name>
+    <name xml:lang="cs">Aeg</name>
+    <name xml:lang="en_GB">Aeg</name>
+    <name xml:lang="id">Aeg</name>
+    <name xml:lang="jbo">la'oi Aeg</name>
+    <name xml:lang="lv">Aeg</name>
+    <name xml:lang="ms">Aeg</name>
+    <name xml:lang="oc">TGV</name>
+    <name xml:lang="pt">Aeg</name>
+    <name xml:lang="sl">Polž</name>
+    <name xml:lang="tr">Aeg</name>
+    <name xml:lang="uk">Равлик</name>
+    <name xml:lang="zh_CN">蜗牛</name>
+    <filename>/usr/share/backgrounds/Aeg_by_Tauno_Erik.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Arboreal ballet</name>
+    <name xml:lang="cs">Stromový balet</name>
+    <name xml:lang="en_GB">Arboreal ballet</name>
+    <name xml:lang="es">Ballet arbóreo</name>
+    <name xml:lang="eu">Arboreal ballet</name>
+    <name xml:lang="hu">Széltánc</name>
+    <name xml:lang="id">Balet arboreal</name>
+    <name xml:lang="jbo">lu tricu nu dansrbaleto</name>
+    <name xml:lang="lv">Arboreal ballet</name>
+    <name xml:lang="ms">Ballet arboreal</name>
+    <name xml:lang="oc">Autant n'empòrta lo vent</name>
+    <name xml:lang="pt">Ballet arbóreo</name>
+    <name xml:lang="sl">Drevesni balet</name>
+    <name xml:lang="tr">Ağaçsıl bale</name>
+    <name xml:lang="uk">Деревний балет</name>
+    <name xml:lang="zh_CN">孤树的芭蕾</name>
+    <filename>/usr/share/backgrounds/Arboreal_ballet_by_Bob_Farrell.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Aubergine Sea</name>
+    <name xml:lang="cs">Tmavofialové moře</name>
+    <name xml:lang="en_GB">Aubergine Sea</name>
+    <name xml:lang="es">Mar de berenjena</name>
+    <name xml:lang="fr">Océan aubergine</name>
+    <name xml:lang="hu">Padlizsán tenger</name>
+    <name xml:lang="id">Laut Aubergine</name>
+    <name xml:lang="lv">Aubergine Sea</name>
+    <name xml:lang="ms">Laut Aubergine</name>
+    <name xml:lang="oc">Lo grand blau</name>
+    <name xml:lang="pt">Mar beringela</name>
+    <name xml:lang="sl">Vijolično morje</name>
+    <name xml:lang="tr">Patlıcan Denizi</name>
+    <name xml:lang="uk">Баклажанове море</name>
+    <name xml:lang="zh_CN">紫海</name>
+    <filename>/usr/share/backgrounds/Aubergine_Sea_by_Wyatt_Kirby.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Berries</name>
+    <name xml:lang="cs">Bobule</name>
+    <name xml:lang="en_GB">Berries</name>
+    <name xml:lang="es">Bayas</name>
+    <name xml:lang="eu">Berries</name>
+    <name xml:lang="fr">Fruits sauvages</name>
+    <name xml:lang="hu">Bogyók</name>
+    <name xml:lang="id">Berri</name>
+    <name xml:lang="jbo">lu loi jbari</name>
+    <name xml:lang="lv">Ogas</name>
+    <name xml:lang="ms">Beri</name>
+    <name xml:lang="oc">Los fruches de la passion</name>
+    <name xml:lang="pt">Bagas</name>
+    <name xml:lang="sl">Jagode</name>
+    <name xml:lang="tr">Meyveler</name>
+    <name xml:lang="uk">Ягоди шипшини</name>
+    <name xml:lang="zh_CN">浆果</name>
+    <filename>/usr/share/backgrounds/Berries_by_Orb9220.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Bird</name>
+    <name xml:lang="az">Quş</name>
+    <name xml:lang="cs">Pták</name>
+    <name xml:lang="en_GB">Bird</name>
+    <name xml:lang="es">Pájaro</name>
+    <name xml:lang="fr">L'oiseau</name>
+    <name xml:lang="id">Burung</name>
+    <name xml:lang="jbo">lu cipni</name>
+    <name xml:lang="lv">Putns</name>
+    <name xml:lang="ms">Burung</name>
+    <name xml:lang="oc">L'ausèl</name>
+    <name xml:lang="pt">Pássaro</name>
+    <name xml:lang="sl">Ptica</name>
+    <name xml:lang="tr">Kuş</name>
+    <name xml:lang="uk">Птаха</name>
+    <name xml:lang="zh_CN">鸟</name>
+    <filename>/usr/share/backgrounds/Bird_by_Magnus.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Fabric</name>
+    <name xml:lang="cs">Látka</name>
+    <name xml:lang="en_GB">Fabric</name>
+    <name xml:lang="es">Textil</name>
+    <name xml:lang="id">Kain</name>
+    <name xml:lang="jbo">lu bukpu</name>
+    <name xml:lang="lv">Audums</name>
+    <name xml:lang="ms">Fabrik</name>
+    <name xml:lang="oc">Teissut</name>
+    <name xml:lang="pt">Tecido</name>
+    <name xml:lang="sl">Tkanina</name>
+    <name xml:lang="tr">Kumaş</name>
+    <name xml:lang="uk">Тканина</name>
+    <name xml:lang="zh_CN">彩色织物</name>
+    <filename>/usr/share/backgrounds/Fabric_by_Just_Jeanette.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Green</name>
+    <name xml:lang="az">Yaşıl</name>
+    <name xml:lang="cs">Zelená</name>
+    <name xml:lang="en_GB">Green</name>
+    <name xml:lang="es">Verde</name>
+    <name xml:lang="fr">Vert</name>
+    <name xml:lang="id">Hijau</name>
+    <name xml:lang="jbo">lu crino</name>
+    <name xml:lang="lv">Zaļš</name>
+    <name xml:lang="ms">Hijau</name>
+    <name xml:lang="pt">Verde</name>
+    <name xml:lang="sl">Zeleno</name>
+    <name xml:lang="tr">Yeşil</name>
+    <name xml:lang="uk">Зелена</name>
+    <name xml:lang="zh_CN">绿</name>
+    <filename>/usr/share/backgrounds/Green_by_Alan_Mattila.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Grey day</name>
+    <name xml:lang="cs">Šedý den</name>
+    <name xml:lang="en_GB">Grey day</name>
+    <name xml:lang="es">Día gris</name>
+    <name xml:lang="hu">Egy szürke nap</name>
+    <name xml:lang="id">Hari kelabu</name>
+    <name xml:lang="jbo">lu grusi donri</name>
+    <name xml:lang="lv">Zaļa diena</name>
+    <name xml:lang="ms">Hari yang kelabu</name>
+    <name xml:lang="oc">La vila es tranquilla</name>
+    <name xml:lang="pt">Dia cinzento</name>
+    <name xml:lang="sl">Siv dan</name>
+    <name xml:lang="tr">Gri gün</name>
+    <name xml:lang="uk">Сірий день</name>
+    <name xml:lang="zh_CN">阴天</name>
+    <filename>/usr/share/backgrounds/Grey_day_by_Drew__.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Holes</name>
+    <name xml:lang="cs">Díry</name>
+    <name xml:lang="en_GB">Holes</name>
+    <name xml:lang="es">Agujeros</name>
+    <name xml:lang="hu">Lyukak</name>
+    <name xml:lang="id">Lubang</name>
+    <name xml:lang="lv">Caurumi</name>
+    <name xml:lang="ms">Lubang</name>
+    <name xml:lang="oc">De traucs dins lo cap</name>
+    <name xml:lang="pt">Buracos</name>
+    <name xml:lang="sl">Luknje</name>
+    <name xml:lang="tr">Delikler</name>
+    <name xml:lang="uk">Дірочки</name>
+    <name xml:lang="zh_CN">孔</name>
+    <filename>/usr/share/backgrounds/Holes_by_FireCobold.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ilunabarra Azkainetik</name>
+    <name xml:lang="cs">Západ slunce</name>
+    <name xml:lang="en_GB">Ilunabarra Azkainetik</name>
+    <name xml:lang="es">Ilunabarra Azkainetik</name>
+    <name xml:lang="id">Ilunabarra Azkainetik</name>
+    <name xml:lang="lv">Ilunabarra Azkainetik</name>
+    <name xml:lang="ms">Ilunabarra Azkainetik</name>
+    <name xml:lang="oc">Entre can e lop</name>
+    <name xml:lang="pt">Ilunabarra Azkainetik</name>
+    <name xml:lang="sl">Sončni zahod v Azkaine</name>
+    <name xml:lang="tr">Ilunabarra Azkainetik</name>
+    <name xml:lang="uk">Ілюнабарра азкайнетік</name>
+    <filename>/usr/share/backgrounds/Ilunabarra_Azkainetik_by_Garuna_bor-bor.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Lá no alto</name>
+    <name xml:lang="cs">Lá no alto</name>
+    <name xml:lang="en_GB">Lá no alto</name>
+    <name xml:lang="id">Lá no alto</name>
+    <name xml:lang="lv">Lá no alto</name>
+    <name xml:lang="ms">Lá no alto</name>
+    <name xml:lang="oc">Lo cèl pòt esperar</name>
+    <name xml:lang="pt">Lá no alto</name>
+    <name xml:lang="sl">Višje ne gre</name>
+    <name xml:lang="tr">Lá no alto</name>
+    <name xml:lang="uk">Метеорит</name>
+    <filename>/usr/share/backgrounds/La_no_alto_by_Allyson_Souza.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Quandro</name>
+    <name xml:lang="cs">Quandro</name>
+    <name xml:lang="en_GB">Quandro</name>
+    <name xml:lang="id">Quandro</name>
+    <name xml:lang="lv">Quandro</name>
+    <name xml:lang="ms">Quandro</name>
+    <name xml:lang="oc">Lo blat en èrba</name>
+    <name xml:lang="pt">Quandro</name>
+    <name xml:lang="sl">Quandro</name>
+    <name xml:lang="tr">Quandro</name>
+    <name xml:lang="uk">Квандро</name>
+    <name xml:lang="zh_CN">Quandro</name>
+    <filename>/usr/share/backgrounds/Quandro_by_Tomas_Vasconcelo.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Signpost</name>
+    <name xml:lang="cs">Ukazatel</name>
+    <name xml:lang="en_GB">Signpost</name>
+    <name xml:lang="es">Señal</name>
+    <name xml:lang="eu">Signpost</name>
+    <name xml:lang="hu">Tábla</name>
+    <name xml:lang="id">Rambu</name>
+    <name xml:lang="lv">Zīme</name>
+    <name xml:lang="ms">Tiang Tanda</name>
+    <name xml:lang="pt">Poste de sinalização</name>
+    <name xml:lang="sl">Kažipot</name>
+    <name xml:lang="tr">Yön tabelası</name>
+    <name xml:lang="uk">Вказівник</name>
+    <name xml:lang="zh_CN">路标</name>
+    <filename>/usr/share/backgrounds/Signpost_by_maroubal2.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tiny Worlds</name>
+    <name xml:lang="cs">Malé světy</name>
+    <name xml:lang="en_GB">Tiny Worlds</name>
+    <name xml:lang="es">Pequeños mundos</name>
+    <name xml:lang="hu">Piciny világok</name>
+    <name xml:lang="id">Dunia Mini</name>
+    <name xml:lang="jbo">lu loi cmatce munje</name>
+    <name xml:lang="lv">Mazās pasaules</name>
+    <name xml:lang="ms">Dunia Kecil</name>
+    <name xml:lang="oc">La vida es una gota penjada</name>
+    <name xml:lang="pt">Mundos pequenos</name>
+    <name xml:lang="sl">Drobni svetovi</name>
+    <name xml:lang="tr">Küçük Dünyalar</name>
+    <name xml:lang="uk">Маленькі світи</name>
+    <name xml:lang="zh_CN">小世界</name>
+    <filename>/usr/share/backgrounds/Tiny_Worlds_by_matthileo.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Touch the light</name>
+    <name xml:lang="cs">Dotkni se světla</name>
+    <name xml:lang="en_GB">Touch the light</name>
+    <name xml:lang="es">Toca la luz</name>
+    <name xml:lang="hu">A fény simogatása</name>
+    <name xml:lang="id">Sentuh Cahaya</name>
+    <name xml:lang="jbo">lu ko pencu lo gusni</name>
+    <name xml:lang="lv">Pieskaries gaismai</name>
+    <name xml:lang="ms">Sentuh cahaya</name>
+    <name xml:lang="oc">La lutz de las estelas mòrtas</name>
+    <name xml:lang="pt">Tocar a luz</name>
+    <name xml:lang="sl">Dotik svetlobe</name>
+    <name xml:lang="tr">Işığa dokun</name>
+    <name xml:lang="uk">Дотик світла</name>
+    <name xml:lang="zh_CN">触碰光明</name>
+    <filename>/usr/share/backgrounds/Touch_the_light_by_Matt_Katzenberger.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tri Narwhal</name>
+    <name xml:lang="cs">Tri Narwhal</name>
+    <name xml:lang="en_GB">Tri Narwhal</name>
+    <name xml:lang="es">Tres narvales</name>
+    <name xml:lang="id">Tiga Narwhal</name>
+    <name xml:lang="lv">Tri Narwhal</name>
+    <name xml:lang="ms">Tiga Narwhal</name>
+    <name xml:lang="oc">Lo secret de la licòrna</name>
+    <name xml:lang="pt">Tri Narwhal</name>
+    <name xml:lang="sl">Trije enorogi</name>
+    <name xml:lang="tr">Tri Narwhal</name>
+    <name xml:lang="uk">Три нарвали</name>
+    <name xml:lang="zh_CN">三条独角鲸</name>
+    <filename>/usr/share/backgrounds/Tri_Narwhal_by_momez.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Variations On Natty Narwhal 1</name>
+    <name xml:lang="cs">Variace na elegantního narvala 1</name>
+    <name xml:lang="en_GB">Variations On Natty Narwhal 1</name>
+    <name xml:lang="eu">Variations On Natty Narwhal 1</name>
+    <name xml:lang="hu">Variációk Natty Narwhalra 1</name>
+    <name xml:lang="id">Variasi Natty Narwhal 1</name>
+    <name xml:lang="lv">Natty Narwhal 1 variācijas</name>
+    <name xml:lang="ms">Variasi Pada Natty Narwhal 1</name>
+    <name xml:lang="oc">Lo mistèri de la licòrna</name>
+    <name xml:lang="pt">Variações Sobre Natty Narwhal 1</name>
+    <name xml:lang="sl">Različice Natty Narwhal 1</name>
+    <name xml:lang="tr">Natty Narwhal 1 Üzerine Çeşitlemeler</name>
+    <name xml:lang="uk">Варіації на тему Natty Narwhal 1</name>
+    <name xml:lang="zh_CN">敏捷的独角鲸变奏曲 1</name>
+    <filename>/usr/share/backgrounds/Variations-On-Natty-Narwhal-1_by_madeinkobaia.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>White flowers</name>
+    <name xml:lang="cs">Bílé květy</name>
+    <name xml:lang="en_GB">White flowers</name>
+    <name xml:lang="es">Flores blancas</name>
+    <name xml:lang="hu">Fehér virágok</name>
+    <name xml:lang="id">Bunga putih</name>
+    <name xml:lang="jbo">lu loi blabi xrula</name>
+    <name xml:lang="lv">Baltas puķes</name>
+    <name xml:lang="ms">Bunga Putih</name>
+    <name xml:lang="oc">Prima precòça</name>
+    <name xml:lang="pt">Flores brancas</name>
+    <name xml:lang="sl">Bele rože</name>
+    <name xml:lang="tr">Beyaz çiçekler</name>
+    <name xml:lang="uk">Білі квіти</name>
+    <name xml:lang="zh_CN">白色小花</name>
+    <filename>/usr/share/backgrounds/White_flowers_by_Garuna_bor-bor.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+ </wallpapers>

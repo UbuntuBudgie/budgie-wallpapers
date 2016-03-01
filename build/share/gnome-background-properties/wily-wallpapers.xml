@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 15.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/wily.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Tramonto a Scalea</name>
+     <filename>/usr/share/backgrounds/Tramonto_a_Scalea_by_Renatvs88.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Tranquil</name>
+     <filename>/usr/share/backgrounds/Tranquil_by_Pat_David.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Light my fire evening sun</name>
+     <filename>/usr/share/backgrounds/Light_my_fire_evening_sun_by_Dariusz_Duma.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Sitting Here, Making Fun</name>
+     <filename>/usr/share/backgrounds/Sitting_Here,_Making_Fun_by_Philipp_Haegi.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Moss inflorescence</name>
+     <filename>/usr/share/backgrounds/Moss_inflorescence_by_carmelo75.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Breaker</name>
+     <filename>/usr/share/backgrounds/Breaker_by_Lyle_Nel.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Blue</name>
+     <name xml:lang="az">Mavi</name>
+     <name xml:lang="cs">Modrá</name>
+     <name xml:lang="en_GB">Blue</name>
+     <name xml:lang="es">Azul</name>
+     <name xml:lang="eu">Blue</name>
+     <name xml:lang="fr">Bleu</name>
+     <name xml:lang="id">Biru</name>
+     <name xml:lang="jbo">lu blanu</name>
+     <name xml:lang="lv">Zils</name>
+     <name xml:lang="ms">Biru</name>
+     <name xml:lang="oc">Blau</name>
+     <name xml:lang="pt">Azul</name>
+     <name xml:lang="sl">Modra</name>
+     <name xml:lang="sq">Blu</name>
+     <name xml:lang="tr">Mavi</name>
+     <name xml:lang="uk">Блакитний</name>
+     <name xml:lang="zh_CN">蓝</name>
+     <filename>/usr/share/backgrounds/Blue_by_dariuskws.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Hotel</name>
+     <filename>/usr/share/backgrounds/Hotel_by_sarcasmrules2011.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Mediterranean Sea</name>
+     <filename>/usr/share/backgrounds/Mediterranean_Sea_by_simosx.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Abstract Ubuntu</name>
+     <filename>/usr/share/backgrounds/Abstract_Ubuntu_by_Marek_Koteluk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

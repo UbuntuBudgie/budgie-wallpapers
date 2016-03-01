@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 15.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/vivid.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>150305-cinqAA</name>
+     <filename>/usr/share/backgrounds/150305-cinqAA_by_Pierre_Cante.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Cedar Wax Wing</name>
+     <filename>/usr/share/backgrounds/Cedar_Wax_Wing_by_Raymond_Lavoie.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Christmas Lights</name>
+     <filename>/usr/share/backgrounds/Christmas_Lights_by_RaDu_GaLaN.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Euphoria!</name>
+     <filename>/usr/share/backgrounds/Euphoria!_by_Tomasino.cz.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Oyster Catcher in the Rocks</name>
+     <filename>/usr/share/backgrounds/Oyster_Catcher_in_the_Rocks_by_Raymond_Lavoie.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Polka Dots and Moonbeams</name>
+     <filename>/usr/share/backgrounds/Polka_Dots_and_Moonbeams_by_SirPecanGum.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Primavera</name>
+     <filename>/usr/share/backgrounds/Primavera_by_Vivian_Morales.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Tenerife Roques de Anaga</name>
+     <filename>/usr/share/backgrounds/Tenerife_Roques_de_Anaga_by_Frederik_Schulz.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Tesla</name>
+     <filename>/usr/share/backgrounds/Tesla_by_Tomasino.cz.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Traviny</name>
+     <filename>/usr/share/backgrounds/Traviny_by_Tomasino.cz.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

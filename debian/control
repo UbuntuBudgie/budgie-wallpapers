@@ -2,10 +2,12 @@ Source: budgie-wallpapers
 Section: x11
 Priority: optional
 Maintainer: fossfreedom <foss.freedom@gmail.com>
-Build-Depends: debhelper (>= 9)
+Build-Depends: debhelper (>= 9),
+               python (>= 2.6.6-3~),
+Build-Depends-Indep: python-distutils-extra,
 Standards-Version: 3.9.6
-Homepage: https://github.com/budgie-remix/budgie-wallpapers-xenial
-Vcs-Browser: https://github.com/budgie-remix/budgie-wallpapers-xenial.git
+Homepage: https://github.com/budgie-remix
+Vcs-Browser: https://github.com/budgie-remix/budgie-wallpapers-xenial
 
 Package: budgie-wallpapers
 Architecture: all
@@ -13,8 +15,7 @@ Section: metapackages
 Depends: budgie-wallpapers-xenial,
          ${misc:Depends}
 Description: Budgie Wallpapers
- The default Budgie wallpaper. This is also a meta-package depending on the
- other default wallpapers for the current Budgie release.
+ Meta-package installs all budgie wallpapers
 
 Package: budgie-wallpapers-xenial
 Architecture: all

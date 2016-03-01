@@ -3,5 +3,11 @@
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
 
+export DPKG_GENSYMBOLS_CHECK_LEVEL=4
+
 %:
-	dh $@
+	dh $@ --with python2 --parallel
+
+override_dh_install:
+	rm -r debian/tmp/usr/lib/python*
+	dh_install --fail-missing

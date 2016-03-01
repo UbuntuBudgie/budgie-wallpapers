@@ -1,4 +1,4 @@
-budgie-wallpapers (16.04.0-1) xenial; urgency=low
+budgie-wallpapers (16.04.0-1) xenial; urgency=medium
 
   * Initial release (as it's own module).
 
