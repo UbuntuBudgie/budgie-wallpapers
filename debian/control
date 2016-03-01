@@ -1,0 +1,23 @@
+Source: budgie-wallpapers
+Section: x11
+Priority: optional
+Maintainer: fossfreedom <foss.freedom@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/budgie-remix/budgie-wallpapers-xenial
+Vcs-Browser: https://github.com/budgie-remix/budgie-wallpapers-xenial.git
+
+Package: budgie-wallpapers
+Architecture: all
+Section: metapackages
+Depends: budgie-wallpapers-xenial,
+         ${misc:Depends}
+Description: Budgie Wallpapers
+ The default Budgie wallpaper. This is also a meta-package depending on the
+ other default wallpapers for the current Budgie release.
+
+Package: budgie-wallpapers-xenial
+Architecture: all
+Depends: ${misc:Depends},
+Description: Budgie 16.04 Wallpapers
+ Wallpapers for Budgie 16.04
