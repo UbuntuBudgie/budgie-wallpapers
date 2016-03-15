@@ -1,47 +1,48 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: ubuntu-wallpapers
-Source: https://launchpad.net/ubuntu-wallpapers
+Upstream-Name: budgie-wallpapers
+Source: https://github.com/budgie-remix/budgie-wallpapers
 
-Files: Tramonto_a_Scalea_by_Renatvs88.jpg
-       Tranquil_by_Pat_David.jpg
-       Light_my_fire_evening_sun_by_Dariusz_Duma.jpg
-       Sitting_Here,_Making_Fun_by_Philipp_Haegi.jpg
-       Moss_inflorescence_by_carmelo75.jpg
-       Breaker_by_Lyle_Nel.jpg
-       Hotel_by_sarcasmrules2011.jpg
-       Mediterranean_Sea_by_simosx.jpg
-       Abstract_Ubuntu_by_Marek_Koteluk.jpg
-Copyright: Pat David
-           Renatvs88
-           Dariusz Duma
-           Philipp Haegi
-           carmelo75
-           Lyle Nel
-           sarcasmrules2011
-           simosx
-           Marek Koteluk
+Files: Xplo_by_Hugo_Cliff.png
+       flower_by_susanne_nilsson.jpg
+       Metal_reflect_by_Sergio_Sánchez.jpg
+Copyright: Hugo Cliff (http://hyperdude111.deviantart.com)
+           Susanne Nilsson
+           Sergio_Sánchez
 License: CC-BY-SA-2.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 2.0
  Unported License. To view a copy of this license, visit
  http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-Files: Blue_by_dariuskws.jpg
-Copyright: dariuskws
-License: CC-0-1.0
- This work is licensed under the Creative Commons CC0 1.0 Universal
+Files: Metal_Hearts_by_Thomas_Hawk.jpg
+Copyright: Thomas_Hawk
+License: CC-BY-NC-2.0
+ This work is licensed under the Creative Commons Attribution-NonCommercial 2.0
+ Unported License. To view a copy of this license, visit
+ https://creativecommons.org/licenses/by-nc/2.0/ or send a letter to Creative
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+Files: Streaming_Out_To_Sea_-_Petit_Bot_Guernsey_by_Jan_Faborsky.jpg
+Copyright: Jan Faborsky
+License: CC-BY-NC-ND-2.0
+ This work is licensed under the Attribution-NonCommercial-NoDerivs 2.0 Generic
  License. To view a copy of this license, visit 
- https://creativecommons.org/publicdomain/zero/1.0/ or send a letter to 
+ https://creativecommons.org/licenses/by-nc-nd/2.0/ or send a letter to 
+ Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 
+ 94041, USA.
+ 
+Files: Ice_9349_by_Barta_IV.jpg
+Copyright: Barta IV
+License: CC-BY-2.0
+ This work is licensed under the Attribution 2.0 Generic
+ License. To view a copy of this license, visit 
+ https://creativecommons.org/licenses/by/2.0/ or send a letter to 
  Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 
  94041, USA.
 
 Files: *
        debian/*
-       warty-final-ubuntu.png
-       Suru_Wallpaper_Desktop_4096x2304_Gray.png
-Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
-           2006, Daniel Holbach <daniel.holbach@ubuntu.com>
-           2010-2015 Ubuntu community contributors
+Copyright: 2016, fossfreedom <foss.freedom@gmail.com>
 License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
  Unported License. To view a copy of this license, visit 

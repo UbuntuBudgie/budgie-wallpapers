@@ -8,23 +8,35 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-01 23:41+0000\n"
+"POT-Creation-Date: 2016-03-15 21:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../budgie-wallpapers.xml.in.h:1
-msgid "test3"
+msgid "Xplo_by_Hugo_Cliff"
 msgstr ""
 
 #: ../budgie-wallpapers.xml.in.h:2
-msgid "test2"
+msgid "flower_by_susanne_nilsson"
 msgstr ""
 
 #: ../budgie-wallpapers.xml.in.h:3
-msgid "test1"
+msgid "Metal_reflect_by_Sergio_Sánchez"
+msgstr ""
+
+#: ../budgie-wallpapers.xml.in.h:4
+msgid "Metal_Hearts_by_Thomas_Hawk"
+msgstr ""
+
+#: ../budgie-wallpapers.xml.in.h:5
+msgid "Streaming_Out_To_Sea_-_Petit_Bot_Guernsey_by_Jan_Faborsky"
+msgstr ""
+
+#: ../budgie-wallpapers.xml.in.h:6
+msgid "Ice_9349_by_Barta_IV"
 msgstr ""
