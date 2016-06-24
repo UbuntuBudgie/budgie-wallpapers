@@ -1,14 +1,13 @@
 Source: budgie-wallpapers
-Section: x11
+Section: misc
 Priority: optional
-Maintainer: fossfreedom <foss.freedom@gmail.com>
+Maintainer: David Mohammed <foss.freedom@gmail.com>
 Build-Depends: debhelper (>= 9),
                dh-python,
                python
 Build-Depends-Indep: python-distutils-extra,
-Standards-Version: 3.9.6
+Standards-Version: 3.9.7
 Homepage: https://github.com/budgie-remix
-Vcs-Browser: https://github.com/budgie-remix/budgie-wallpapers-xenial
 
 Package: budgie-wallpapers
 Architecture: all

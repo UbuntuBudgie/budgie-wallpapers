@@ -3,10 +3,16 @@ Upstream-Name: budgie-wallpapers
 Source: https://github.com/budgie-remix/budgie-wallpapers
 
 Files: Xplo_by_Hugo_Cliff.png
-       flower_by_susanne_nilsson.jpg
-       Metal_reflect_by_Sergio_Sánchez.jpg
 Copyright: Hugo Cliff (http://hyperdude111.deviantart.com)
-           Susanne Nilsson
+License: CC-BY-SA-4.0
+ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+ Unported License. To view a copy of this license, visit
+ https://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+Files: flower_by_susanne_nilsson.jpg
+       Metal_reflect_by_Sergio_Sánchez.jpg
+Copyright: Susanne Nilsson
            Sergio_Sánchez
 License: CC-BY-SA-2.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 2.0
