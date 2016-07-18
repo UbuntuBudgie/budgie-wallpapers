@@ -10,10 +10,18 @@ License: CC-BY-SA-4.0
  https://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-Files: picture1.jpg
-       picture2.jpg
-Copyright: author of picture 1
-           author of picture 2
+Files: Beauty of Mandarins - Erwan Hesry.jpg
+       Before the Storm - Matt Hoffman.jpg
+       Foggy Mountain Ridge - Rosan Harmens.jpg
+       Silent sunrise in the Rainforest - Eric Li.jpg
+       Sleeping Beauty - Jordan Whitt.jpg
+       Sundown Beach - Quino Al.jpg
+Copyright: Erwan Hesry
+           Matt Hoffman
+           Rosan Harmens
+           Eric Li
+           Jordan Whitt
+           Quino Al
 License: CC0
  To the extent possible under law, the person who associated CC0 has
  waived all copyright and related or neighboring rights. To view a copy
@@ -60,7 +68,7 @@ License: CC-BY-2.0
 
 Files: *
        debian/*
-Copyright: 2016, fossfreedom <foss.freedom@gmail.com>
+Copyright: 2016, David Mohammed <fossfreedom@ubuntu.com>
 License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
  Unported License. To view a copy of this license, visit 

@@ -2,19 +2,91 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>name of picture by author 1</_name>
-    <filename>/usr/share/backgrounds/name_of_picture_by_author_1.jpg</filename>
+    <_name>Streaming</_name>
+    <filename>/usr/share/backgrounds/budgie/Streaming_Out_To_Sea_-_Petit_Bot_Guernsey_by_Jan_Faborsky.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>name of picture by author 2</_name>
-    <filename>/usr/share/backgrounds/name_of_picture_by_author_2.jpg</filename>
+    <_name>Flower</_name>
+    <filename>/usr/share/backgrounds/budgie/flower_by_susanne_nilsson.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
- </wallpapers>
+  <wallpaper>
+    <_name>Silent</_name>
+    <filename>/usr/share/backgrounds/budgie/silent_sunrise_in_the_rainforest_by_eric_li.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Before</_name>
+    <filename>/usr/share/backgrounds/budgie/before_the_storm_by_matt_hoffman.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Ice</_name>
+    <filename>/usr/share/backgrounds/budgie/Ice_9349_by_Barta_IV.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Sleeping</_name>
+    <filename>/usr/share/backgrounds/budgie/sleeping_beauty_by_jordan-whitt.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Metal</_name>
+    <filename>/usr/share/backgrounds/budgie/Metal_Hearts_by_Thomas_Hawk.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Metal</_name>
+    <filename>/usr/share/backgrounds/budgie/Metal_reflect_by_Sergio_Sánchez.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Foggy mountain ridge - rosan harmens.jpg</_name>
+    <filename>/usr/share/backgrounds/budgie/Foggy Mountain Ridge - Rosan Harmens.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Beauty</_name>
+    <filename>/usr/share/backgrounds/budgie/beauty_of_mandarins_by_erwan_hesry.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Sundown</_name>
+    <filename>/usr/share/backgrounds/budgie/sundown_beach_by_quino_al.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

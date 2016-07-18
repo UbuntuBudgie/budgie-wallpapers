@@ -1,20 +1,22 @@
 Source: budgie-wallpapers
 Section: misc
 Priority: optional
-Maintainer: David Mohammed <foss.freedom@gmail.com>
+Maintainer: David Mohammed <fossfreedom@ubuntu.com>
 Build-Depends: debhelper (>= 9),
                dh-python,
                python
 Build-Depends-Indep: python-distutils-extra,
 Standards-Version: 3.9.7
 Homepage: https://github.com/budgie-remix
+Vcs-Browser: https://github.com/budgie-remix/budgie-wallpapers/tree/debian
+Vcs-Git: https://github.com/budgie-remix/budgie-wallpapers -b debian
+
 
 Package: budgie-wallpapers
 Architecture: all
 Section: metapackages
 Depends: budgie-wallpapers-xenial,
          ${misc:Depends}
-Suggests: budgie-wallpapers-xenialoriginal
 Description: Wallpapers for Budgie
  Meta-package installs all budgie wallpapers
 
@@ -22,10 +24,4 @@ Package: budgie-wallpapers-xenial
 Architecture: all
 Depends: ${misc:Depends},
 Description: Budgie 16.04.1 Wallpapers
- Wallpapers for Budgie 16.04.1
-
-Package: budgie-wallpapers-xenialoriginal
-Architecture: all
-Depends: ${misc:Depends},
-Description: Budgie 16.04 Wallpapers
  Wallpapers for Budgie 16.04
