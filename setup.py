@@ -15,8 +15,8 @@ if os.path.exists(changelog):
 setup(
     name = 'budgie-wallpapers',
     version = version,
-    data_files=[('share/backgrounds', glob.glob('*.png')+glob.glob('*.jpg')),
-		('share/backgrounds/contest', glob.glob('contest/*.xml')),
+    data_files=[('share/backgrounds/budgie', glob.glob('*.png')+glob.glob('*.jpg')),
+		('share/backgrounds/budgie', glob.glob('contest/*.xml')),
                ],
     cmdclass = { "build" : build_extra.build_extra,
                  "build_i18n" :  build_i18n.build_i18n }

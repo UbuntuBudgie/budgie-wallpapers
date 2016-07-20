@@ -9,45 +9,4 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-  <wallpaper>
-    <_name>flower_by_susanne_nilsson</_name>
-    <filename>/usr/share/backgrounds/flower_by_susanne_nilsson.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Metal_reflect_by_Sergio_Sánchez</_name>
-    <filename>/usr/share/backgrounds/Metal_reflect_by_Sergio_Sánchez.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Metal_Hearts_by_Thomas_Hawk</_name>
-    <filename>/usr/share/backgrounds/Metal_Hearts_by_Thomas_Hawk.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Streaming_Out_To_Sea_-_Petit_Bot_Guernsey_by_Jan_Faborsky</_name>
-    <filename>/usr/share/backgrounds/Streaming_Out_To_Sea_-_Petit_Bot_Guernsey_by_Jan_Faborsky.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Ice_9349_by_Barta_IV</_name>
-    <filename>/usr/share/backgrounds/Ice_9349_by_Barta_IV.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-
- </wallpapers>
+</wallpapers>

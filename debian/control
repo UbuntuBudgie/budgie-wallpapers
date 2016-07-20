@@ -17,11 +17,11 @@ Architecture: all
 Section: metapackages
 Depends: budgie-wallpapers-xenial,
          ${misc:Depends}
-Description: Wallpapers for Budgie
+Description: Wallpapers for budgie-remix
  Meta-package installs all budgie wallpapers
 
 Package: budgie-wallpapers-xenial
 Architecture: all
 Depends: ${misc:Depends},
-Description: Budgie 16.04.1 Wallpapers
- Wallpapers for Budgie 16.04
+Description: budgie-remix 16.04.1 Wallpapers
+ Wallpapers for Budgie 16.04.1
