@@ -1,3 +1,9 @@
+budgie-wallpapers (16.04.1.1) xenial; urgency=medium
+
+  * corrected missing foggy image
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Thu, 21 Jul 2016 20:53:02 +0100
+
 budgie-wallpapers (16.04.1.0) xenial; urgency=medium
 
   * Initial release (LP: #1594585)

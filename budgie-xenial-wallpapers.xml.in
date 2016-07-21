@@ -10,6 +10,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
+    <_name>Foggy</_name>
+    <filename>/usr/share/backgrounds/budgie/foggy_mountain_ridge_by_rosan_harmens.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
     <_name>Flower</_name>
     <filename>/usr/share/backgrounds/budgie/flower_by_susanne_nilsson.jpg</filename>
     <options>zoom</options>
@@ -60,14 +68,6 @@
   <wallpaper>
     <_name>Metal</_name>
     <filename>/usr/share/backgrounds/budgie/Metal_reflect_by_Sergio_Sánchez.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Foggy mountain ridge - rosan harmens.jpg</_name>
-    <filename>/usr/share/backgrounds/budgie/Foggy Mountain Ridge - Rosan Harmens.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
