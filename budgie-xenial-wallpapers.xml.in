@@ -2,24 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>Streaming</_name>
-    <filename>/usr/share/backgrounds/budgie/Streaming_Out_To_Sea_-_Petit_Bot_Guernsey_by_Jan_Faborsky.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <_name>Foggy</_name>
     <filename>/usr/share/backgrounds/budgie/foggy_mountain_ridge_by_rosan_harmens.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Flower</_name>
-    <filename>/usr/share/backgrounds/budgie/flower_by_susanne_nilsson.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -42,32 +26,8 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Ice</_name>
-    <filename>/usr/share/backgrounds/budgie/Ice_9349_by_Barta_IV.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <_name>Sleeping</_name>
     <filename>/usr/share/backgrounds/budgie/sleeping_beauty_by_jordan-whitt.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Metal</_name>
-    <filename>/usr/share/backgrounds/budgie/Metal_Hearts_by_Thomas_Hawk.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Metal</_name>
-    <filename>/usr/share/backgrounds/budgie/Metal_reflect_by_Sergio_Sánchez.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
