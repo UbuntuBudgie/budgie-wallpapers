@@ -8,20 +8,22 @@ Build-Depends: debhelper (>= 9),
 Build-Depends-Indep: python-distutils-extra,
 Standards-Version: 3.9.7
 Homepage: https://github.com/budgie-remix
-Vcs-Browser: https://github.com/budgie-remix/budgie-wallpapers/tree/debian
-Vcs-Git: https://github.com/budgie-remix/budgie-wallpapers -b debian
-
+Vcs-Browser: https://github.com/budgie-remix/budgie-wallpapers
+Vcs-Git: https://github.com/budgie-remix/budgie-wallpapers.git
 
 Package: budgie-wallpapers
 Architecture: all
-Section: metapackages
+Section: misc
 Depends: budgie-wallpapers-xenial,
          ${misc:Depends}
 Description: Wallpapers for budgie-remix
- Meta-package installs all budgie wallpapers
+ Package that installs the budgie wallpapers for the current
+ release together with the default wallpaper for budgie-remix used
+ on the logon, desktop and lock-screen.
 
 Package: budgie-wallpapers-xenial
 Architecture: all
 Depends: ${misc:Depends},
 Description: budgie-remix 16.04.1 Wallpapers
- Wallpapers for Budgie 16.04.1
+ Wallpapers for budgie-remix (release 16.04.1). Selection of 
+ community wallpapers to showcase budgie-remix.
