@@ -13,8 +13,8 @@ Vcs-Git: https://github.com/budgie-remix/budgie-wallpapers.git
 
 Package: budgie-wallpapers
 Architecture: all
-Section: misc
-Depends: budgie-wallpapers-xenial,
+Suggests: budgie-wallpapers-xenial
+Depends: budgie-wallpapers-yakkety,
          ${misc:Depends}
 Description: Wallpapers for budgie-remix
  Package that installs the budgie wallpapers for the current
@@ -27,3 +27,10 @@ Depends: ${misc:Depends},
 Description: budgie-remix 16.04.1 Wallpapers
  Wallpapers for budgie-remix (release 16.04.1). Selection of 
  community wallpapers to showcase budgie-remix.
+
+Package: budgie-wallpapers-yakkety
+Architecture: all
+Depends: ${misc:Depends},
+Description: budgie-remix 16.10 Wallpapers
+ Community Contest wallpapers for budgie-remix (release 16.10).
+ Selection of community wallpapers to showcase budgie-remix.

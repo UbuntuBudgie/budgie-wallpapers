@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 23:45+0100\n"
+"POT-Creation-Date: 2016-09-05 20:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,4 +43,36 @@ msgstr ""
 
 #: ../budgie-xenial-wallpapers.xml.in.h:6
 msgid "Sundown"
+msgstr ""
+
+#: ../budgie-yakkety-wallpapers.xml.in.h:1
+msgid "Simplicity"
+msgstr ""
+
+#: ../budgie-yakkety-wallpapers.xml.in.h:2
+msgid "Net"
+msgstr ""
+
+#: ../budgie-yakkety-wallpapers.xml.in.h:3
+msgid "Cloudy"
+msgstr ""
+
+#: ../budgie-yakkety-wallpapers.xml.in.h:4
+msgid "Dream"
+msgstr ""
+
+#: ../budgie-yakkety-wallpapers.xml.in.h:5
+msgid "Clarity"
+msgstr ""
+
+#: ../budgie-yakkety-wallpapers.xml.in.h:6
+msgid "Busy"
+msgstr ""
+
+#: ../budgie-yakkety-wallpapers.xml.in.h:7
+msgid "Wald"
+msgstr ""
+
+#: ../budgie-yakkety-wallpapers.xml.in.h:8
+msgid "Cobweb"
 msgstr ""
