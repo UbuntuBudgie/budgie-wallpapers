@@ -1,3 +1,15 @@
+budgie-wallpapers (17.04) zesty; urgency=medium
+
+  * Community Contest Wallpapers (LP: #)
+    - https://flickr.com/groups/ubuntubudgie-1704/
+  * Run jpegoptim and optipng over wallpapers to optimize size
+  * Packaging Changes:
+    - Add zesty binary package
+    - Description change for budgie-wallpapers
+    - Up build version
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Tue, 31 Jan 2017 23:40:20 +0000
+
 budgie-wallpapers (16.10) yakkety; urgency=medium
 
   * Community Contest Wallpapers (LP: #1622128)

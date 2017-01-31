@@ -6,20 +6,21 @@ Build-Depends: debhelper (>= 9),
                dh-python,
                python
 Build-Depends-Indep: python-distutils-extra,
-Standards-Version: 3.9.7
-Homepage: https://github.com/budgie-remix
-Vcs-Browser: https://github.com/budgie-remix/budgie-wallpapers
-Vcs-Git: https://github.com/budgie-remix/budgie-wallpapers.git
+Standards-Version: 3.9.8
+Homepage: https://github.com/UbuntuBudgie
+Vcs-Browser: https://github.com/UbuntuBudgie/budgie-wallpapers
+Vcs-Git: https://github.com/UbuntuBudgie/budgie-wallpapers.git
 
 Package: budgie-wallpapers
 Architecture: all
-Suggests: budgie-wallpapers-xenial
-Depends: budgie-wallpapers-yakkety,
+Suggests: budgie-wallpapers-xenial,
+ budgie-wallpapers-yakkety
+Depends: budgie-wallpapers-zesty,
          ${misc:Depends}
 Description: Wallpapers for budgie-remix
  Package that installs the budgie wallpapers for the current
- release together with the default wallpaper for budgie-remix used
- on the logon, desktop and lock-screen.
+ release together with the default wallpaper for
+ Ubuntu Budgie used on the logon, desktop and lock-screen.
 
 Package: budgie-wallpapers-xenial
 Architecture: all
@@ -34,3 +35,10 @@ Depends: ${misc:Depends},
 Description: budgie-remix 16.10 Wallpapers
  Community Contest wallpapers for budgie-remix (release 16.10).
  Selection of community wallpapers to showcase budgie-remix.
+
+Package: budgie-wallpapers-zesty
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu Budgie 17.04 Wallpapers
+ Community Contest wallpapers for Ubuntu Budgie (release 17.04).
+ Selection of community wallpapers to showcase Ubuntu Budgie.
