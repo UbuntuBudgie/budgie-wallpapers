@@ -11,6 +11,9 @@ ubuntu_budgie_wallpaper1.jpg
 ##Quality Assurance
 To minimize size of the debian package and to provide the best experience for our users, we follow these optmization steps for each image:
 
+- You'll need these packages for the tools used here:  
+`imagemagick`, `jhead` and [mozjpeg](https://mozjpeg.codelove.de/binaries.html)
+
 - Convert image to JPG if in another format:  
 `mogrify -format jpg <imagefile>`
 
