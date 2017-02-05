@@ -17,7 +17,7 @@ To minimize package size of the debian package and to provide best experience fo
 - Scale down image to match 4K (3840x2400) size:  
 `mogrify -resize 3840x <image.jpg>`
 
-- Remove all metadata except XMP and comments: 
+- Remove all metadata except XMP and comments:  
 `jhead -autorot -de -di -du -c <image.jpg>`
 
 - Losslessly optimize image:  
