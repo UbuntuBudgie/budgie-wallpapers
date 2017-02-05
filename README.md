@@ -9,7 +9,7 @@ ubuntu_budgie_wallpaper1.jpg
 ```
 
 ##Quality Assurance
-To minimize package size of the debian package and to provide best experience for our users, we follow these image optmization steps for each file:
+To minimize size of the debian package and to provide the best experience for our users, we follow these optmization steps for each image:
 
 - Convert image to JPG if in another format:  
 `mogrify -format jpg <imagefile>`
@@ -20,7 +20,7 @@ To minimize package size of the debian package and to provide best experience fo
 - Remove all metadata except XMP and comments:  
 `jhead -autorot -de -di -du -c <image.jpg>`
 
-- Losslessly optimize image:  
+- Losslessly optimize images with _mozjpeg_:  
 `/opt/mozjpeg/bin/jpegtran -optimize -progressive -outfile 'Output.jpg' 'Input.jpg'`
 
 After renaming the resulting image to `Image_Title_by_Artist` format, it is ready for inclusion.
