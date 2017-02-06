@@ -20,6 +20,11 @@ To minimize size of the debian package and to provide the best experience for ou
 - Scale down image to match 4K (3840x2400) size:  
 `mogrify -resize 3840x <image.jpg>`
 
+- If image is still huge in size (above 4MB), check it's quality level:  
+`identify -verbose <image.jpg> | grep 'Image:\|Quality'`  
+If higher than _92_, reduce it down:  
+`mogrify -quality 92 <image.jpg>`
+
 - Remove all metadata except XMP and comments:  
 `jhead -autorot -de -di -du -c <image.jpg>`
 
