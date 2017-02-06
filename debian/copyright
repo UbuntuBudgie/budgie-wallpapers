@@ -1,13 +1,13 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: budgie-wallpapers
-Source: https://github.com/budgie-remix/budgie-wallpapers
+Source: https://github.com/UbuntuBudgie/budgie-wallpapers
 
 Files: *
        debian/*
 Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
            2006, Daniel Holbach <daniel.holbach@ubuntu.com>
            2010-2016 Ubuntu community contributors
-           2016, David Mohammed <fossfreedom@ubuntu.com>
+           2016-2017, David Mohammed <fossfreedom@ubuntu.com>
 License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
  Unported License. To view a copy of this license, visit 
@@ -61,14 +61,6 @@ Comment: https://unsplash.com/photos/3c_akLTXTek
  .
  https://unsplash.com/license
 License: CC0
-
-License: CC0
- To the extent possible under law, the person who associated CC0 has
- waived all copyright and related or neighboring rights. To view a copy
- of this license, visit
- http://creativecommons.org/publicdomain/zero/1.0/ or send a letter to
- Creative Commons, 444 Castro Street, Suite 900, Mountain View,
- California, 94041, USA.
 
 Files: simplicity_by_paul_van_de_velde.jpg
 Copyright: Paul Van De Velde
@@ -125,9 +117,132 @@ Comment: https://www.flickr.com/photos/142750888@N03/28543894580/in/pool-budgie-
  and that it is your work (or correctly attributed)."
 License: CC-BY-SA-4.0
 
+Files: awkward_tower_by_michael_gaida.jpg
+Copyright: michael gaida
+Comment: https://www.flickr.com/photos/145756788@N06/31916128870/in/pool-ubuntubudgie-1704/
+License: CC0
+
+Files: feathers_by_andre_tr.jpg
+Copyright: andre tr
+Comment: https://www.flickr.com/photos/145018251@N05/31850199813/in/pool-ubuntubudgie-1704/
+ .
+ Licensed as per community contest rules
+ https://www.flickr.com/groups/ubuntubudgie-1704
+ "Licenses - all submissions must adhere to one of the following:
+  • Submissions must adhere to the Creative Commons ShareAlike 4.0
+    (see www.flickr.com/creativecommons/ ) to be considered for use in
+    ubuntu-budgie
+  • Submissions must adhere to the Creative Commons With Attribution
+    License v3 or v4 (see www.flickr.com/creativecommons/ ) to be
+    considered for use in ubuntu-budgie
+  • Submissions can use the Creative Commons Zero Waiver (CC0) -
+    the original author if its not you must be specified.
+  Also, submitting your wallpaper confirms to us you are willing to
+  share your submission with with one of these licenses, have understood
+  the license terms and that it is your work (or correctly attributed).
+  If the license is not as specified above we will assume CC-BY-SA 4.0"
+License: CC-BY-SA-4.0
+  
+Files: impossibly_tall_bridge.jpg
+ speeding_train_by_xander_jara.jpg
+ streaming_butterfly_by_xander_jara.jpg
+Copyright: xander jara
+Comment: https://www.flickr.com/photos/144669732@N04/31942061610/in/pool-ubuntubudgie-1704/
+ https://www.flickr.com/photos/144669732@N04/31508359963/in/pool-ubuntubudgie-1704/
+ https://www.flickr.com/photos/144669732@N04/30508066600/in/pool-ubuntubudgie-1704/
+ .
+ Licensed as per community contest rules
+ https://www.flickr.com/groups/ubuntubudgie-1704
+ "Licenses - all submissions must adhere to one of the following:
+  • Submissions must adhere to the Creative Commons ShareAlike 4.0
+    (see www.flickr.com/creativecommons/ ) to be considered for use in
+    ubuntu-budgie
+  • Submissions must adhere to the Creative Commons With Attribution
+    License v3 or v4 (see www.flickr.com/creativecommons/ ) to be
+    considered for use in ubuntu-budgie
+  • Submissions can use the Creative Commons Zero Waiver (CC0) -
+    the original author if its not you must be specified.
+  Also, submitting your wallpaper confirms to us you are willing to
+  share your submission with with one of these licenses, have understood
+  the license terms and that it is your work (or correctly attributed).
+  If the license is not as specified above we will assume CC-BY-SA 4.0"
+License: CC-BY-SA-4.0
+
+Files: playground_by_michael_johnson.jpg
+Copyright: michael johnson
+Comment: https://www.flickr.com/photos/151215008@N08/31488703394/in/pool-ubuntubudgie-1704/
+ .
+ Licensed as per community contest rules
+ https://www.flickr.com/groups/ubuntubudgie-1704
+ "Licenses - all submissions must adhere to one of the following:
+  • Submissions must adhere to the Creative Commons ShareAlike 4.0
+    (see www.flickr.com/creativecommons/ ) to be considered for use in
+    ubuntu-budgie
+  • Submissions must adhere to the Creative Commons With Attribution
+    License v3 or v4 (see www.flickr.com/creativecommons/ ) to be
+    considered for use in ubuntu-budgie
+  • Submissions can use the Creative Commons Zero Waiver (CC0) -
+    the original author if its not you must be specified.
+  Also, submitting your wallpaper confirms to us you are willing to
+  share your submission with with one of these licenses, have understood
+  the license terms and that it is your work (or correctly attributed).
+  If the license is not as specified above we will assume CC-BY-SA 4.0"
+License: CC-BY-SA-4.0
+
+Files: sand_by_andre_at_s_xavier.jpg
+Copyright: andre@s Xavier
+Comment: https://www.flickr.com/photos/anxavier/28935487653/in/pool-ubuntubudgie-1704/
+ .
+ Licensed as per community contest rules
+ https://www.flickr.com/groups/ubuntubudgie-1704
+ "Licenses - all submissions must adhere to one of the following:
+  • Submissions must adhere to the Creative Commons ShareAlike 4.0
+    (see www.flickr.com/creativecommons/ ) to be considered for use in
+    ubuntu-budgie
+  • Submissions must adhere to the Creative Commons With Attribution
+    License v3 or v4 (see www.flickr.com/creativecommons/ ) to be
+    considered for use in ubuntu-budgie
+  • Submissions can use the Creative Commons Zero Waiver (CC0) -
+    the original author if its not you must be specified.
+  Also, submitting your wallpaper confirms to us you are willing to
+  share your submission with with one of these licenses, have understood
+  the license terms and that it is your work (or correctly attributed).
+  If the license is not as specified above we will assume CC-BY-SA 4.0"
+License: CC-BY-SA-4.0
+
+Files: tarmac_by_siddharth_arya.jpg
+ beach_by_siddharth_arya.jpg
+Copyright: siddharth arya
+Comment: https://www.flickr.com/photos/146775741@N02/31933373630/in/pool-ubuntubudgie-1704/
+ https://www.flickr.com/photos/146775741@N02/31933364610/in/pool-ubuntubudgie-1704/
+ .
+ Licensed as per community contest rules
+ https://www.flickr.com/groups/ubuntubudgie-1704
+ "Licenses - all submissions must adhere to one of the following:
+  • Submissions must adhere to the Creative Commons ShareAlike 4.0
+    (see www.flickr.com/creativecommons/ ) to be considered for use in
+    ubuntu-budgie
+  • Submissions must adhere to the Creative Commons With Attribution
+    License v3 or v4 (see www.flickr.com/creativecommons/ ) to be
+    considered for use in ubuntu-budgie
+  • Submissions can use the Creative Commons Zero Waiver (CC0) -
+    the original author if its not you must be specified.
+  Also, submitting your wallpaper confirms to us you are willing to
+  share your submission with with one of these licenses, have understood
+  the license terms and that it is your work (or correctly attributed).
+  If the license is not as specified above we will assume CC-BY-SA 4.0"
+License: CC-BY-SA-4.0
+
 License: CC-BY-SA-4.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
  Unported License. To view a copy of this license, visit
  https://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
+License: CC0
+ To the extent possible under law, the person who associated CC0 has
+ waived all copyright and related or neighboring rights. To view a copy
+ of this license, visit
+ http://creativecommons.org/publicdomain/zero/1.0/ or send a letter to
+ Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+ California, 94041, USA.

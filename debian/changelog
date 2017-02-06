@@ -2,12 +2,15 @@ budgie-wallpapers (17.04) zesty; urgency=medium
 
   * Community Contest Wallpapers (LP: #)
     - https://flickr.com/groups/ubuntubudgie-1704/
+  * Add new standard wallpapers
   * Run optimisation tools over wallpapers to limit size
   * resize overlarge pictures to 4K
   * Packaging Changes:
     - Add zesty binary package
-    - Description change for budgie-wallpapers
-    - Up build version
+    - Description changes for all budgie-wallpapers binary packages
+      to ensure no lintian minor warnings
+    - Up the build version
+    - Updated source repo name
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Tue, 31 Jan 2017 23:40:20 +0000
 
