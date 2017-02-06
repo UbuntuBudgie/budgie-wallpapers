@@ -2,7 +2,8 @@ budgie-wallpapers (17.04) zesty; urgency=medium
 
   * Community Contest Wallpapers (LP: #)
     - https://flickr.com/groups/ubuntubudgie-1704/
-  * Run jpegoptim and optipng over wallpapers to optimize size
+  * Run optimisation tools over wallpapers to limit size
+  * resize overlarge pictures to 4K
   * Packaging Changes:
     - Add zesty binary package
     - Description change for budgie-wallpapers
