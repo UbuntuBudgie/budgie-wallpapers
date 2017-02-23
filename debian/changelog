@@ -1,3 +1,11 @@
+budgie-wallpapers (17.04.1) zesty; urgency=medium
+
+  * Bug-fix release (LP: #1667336)
+    - replace one wallpaper due to original having unacceptable visual
+      artefacts
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Thu, 23 Feb 2017 14:44:32 +0000
+
 budgie-wallpapers (17.04) zesty; urgency=medium
 
   * Community Contest Wallpapers (LP: #1663951)
