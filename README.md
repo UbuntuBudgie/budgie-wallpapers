@@ -1,14 +1,15 @@
-#Ubuntu Budgie Wallpapers
+# Ubuntu Budgie Wallpapers
 This repo holds the wallpapers for each Ubuntu Budgie release
 
-##Default Wallpapers
+## Default Wallpapers
+
 Generally, each Ubuntu Budgie release brings a brand new set of wallpapers. However, there are a few "default" wallpapers that we ship on all releases:
 ```
 Xplo_by_Hugo_Cliff.png
 ubuntu_budgie_wallpaper1.jpg
 ```
 
-##Quality Assurance
+## Quality Assurance
 To minimize size of the debian package and to provide the best experience for our users, we follow these optmization steps for each image:
 
 - You'll need these packages for the tools used here:  
