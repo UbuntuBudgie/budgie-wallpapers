@@ -25,4 +25,12 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper>
+    <_name>ubuntu_budgie_wallpaper3</_name>
+    <filename>/usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper3.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
   </wallpapers>
