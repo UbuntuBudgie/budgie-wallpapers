@@ -1,6 +1,6 @@
-budgie-wallpapers (17.04.3) artful; urgency=medium
+budgie-wallpapers (17.04.2~zesty) zesty; urgency=medium
 
-  * test version with material design wallpaper
+  * inc material design wallpaper
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Sat, 13 May 2017 22:46:53 +0100
 
