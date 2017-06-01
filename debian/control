@@ -17,7 +17,7 @@ Suggests: budgie-wallpapers-xenial,
  budgie-wallpapers-yakkety
 Depends: budgie-wallpapers-zesty,
          ${misc:Depends}
-Description: Wallpapers for budgie-remix
+Description: Wallpapers for Ubuntu Budgie
  Package that installs the budgie wallpapers for the current
  release together with the default wallpaper for
  Ubuntu Budgie used on the logon, desktop and lock-screen.

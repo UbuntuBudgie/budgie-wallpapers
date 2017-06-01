@@ -1,6 +1,9 @@
-budgie-wallpapers (17.04.2~zesty) zesty; urgency=medium
+budgie-wallpapers (17.10) artful; urgency=medium
 
-  * inc material design wallpaper
+  * New release (LP: #)
+  * include material design wallpaper as a default
+  * Packaging Changes:
+    - debian/control change budgie-remix --> Ubuntu Budgie
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Sat, 13 May 2017 22:46:53 +0100
 
