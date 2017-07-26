@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <_name>12 Cordas</_name>
+    <filename>/usr/share/backgrounds/budgie/12cordas_by_gill_santos.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Beacon</_name>
+    <filename>/usr/share/backgrounds/budgie/beacon_of_hope_james_pond.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Bercuit Driveway</_name>
+    <filename>/usr/share/backgrounds/budgie/bercuit_driveway_by_guy_renard.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Clock</_name>
+    <filename>/usr/share/backgrounds/budgie/desk_clock_by_ryan_mcguire.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Green Spikey Thing</_name>
+    <filename>/usr/share/backgrounds/budgie/green_spikey_thing_by_gill_santos.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Hipster</_name>
+    <filename>/usr/share/backgrounds/budgie/hipster_by_gill_santos.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Pointy Red</_name>
+    <filename>/usr/share/backgrounds/budgie/pointy_red_by_guy_renard.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Stray Dog</_name>
+    <filename>/usr/share/backgrounds/budgie/stray_dog_by_radu_galan.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Tramea Basilaris</_name>
+    <filename>/usr/share/backgrounds/budgie/tramea_basilaris_by_sudhir_reddy.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Wintermas</_name>
+    <filename>/usr/share/backgrounds/budgie/wintermas_lights_by_radu_galan.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

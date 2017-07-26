@@ -2,11 +2,11 @@ Source: budgie-wallpapers
 Section: misc
 Priority: optional
 Maintainer: David Mohammed <fossfreedom@ubuntu.com>
-Build-Depends: debhelper (>= 9),
+Build-Depends: debhelper (>= 10),
                dh-python,
                python
 Build-Depends-Indep: python-distutils-extra,
-Standards-Version: 3.9.8
+Standards-Version: 4.0.0
 Homepage: https://github.com/UbuntuBudgie
 Vcs-Browser: https://github.com/UbuntuBudgie/budgie-wallpapers
 Vcs-Git: https://github.com/UbuntuBudgie/budgie-wallpapers.git
@@ -14,8 +14,9 @@ Vcs-Git: https://github.com/UbuntuBudgie/budgie-wallpapers.git
 Package: budgie-wallpapers
 Architecture: all
 Suggests: budgie-wallpapers-xenial,
- budgie-wallpapers-yakkety
-Depends: budgie-wallpapers-zesty,
+ budgie-wallpapers-yakkety,
+ budgie-wallpapers-zesty
+Depends: budgie-wallpapers-artful,
          ${misc:Depends}
 Description: Wallpapers for Ubuntu Budgie
  Package that installs the budgie wallpapers for the current
@@ -43,5 +44,13 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu Budgie 17.04 Wallpapers
  Community Contest wallpapers for Ubuntu Budgie (release 17.04).
+ Selection of community wallpapers to showcase Ubuntu Budgie.
+ This package can be installed on any version of Ubuntu.
+
+Package: budgie-wallpapers-artful
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu Budgie 17.10 Wallpapers
+ Community Contest wallpapers for Ubuntu Budgie (release 17.10).
  Selection of community wallpapers to showcase Ubuntu Budgie.
  This package can be installed on any version of Ubuntu.

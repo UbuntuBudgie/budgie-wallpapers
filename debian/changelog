@@ -1,9 +1,14 @@
 budgie-wallpapers (17.10) artful; urgency=medium
 
-  * New release (LP: #)
-  * include material design wallpaper as a default
+  * Community Contest Wallpapers (LP: #)
+    - https://flickr.com/groups/ubuntubudgie1710/
+  * include material design wallpaper as a default install
   * Packaging Changes:
     - debian/control change budgie-remix --> Ubuntu Budgie
+      update standards version to 4.0.0
+      update debhelper from 9 to 10
+      add Artful binary package and make it the default install, with
+      the equivalent zesty now added as a Suggests
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Sat, 13 May 2017 22:46:53 +0100
 
