@@ -9,9 +9,9 @@ Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
            2010-2016 Ubuntu community contributors
            2016-2017, David Mohammed <fossfreedom@ubuntu.com>
 License: CC-BY-SA-3.0
- This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
- Unported License. To view a copy of this license, visit 
- http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative 
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License. To view a copy of this license, visit
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
 Files: Xplo_by_Hugo_Cliff.png
@@ -142,7 +142,7 @@ Comment: https://www.flickr.com/photos/145018251@N05/31850199813/in/pool-ubuntub
   the license terms and that it is your work (or correctly attributed).
   If the license is not as specified above we will assume CC-BY-SA 4.0"
 License: CC-BY-SA-4.0
-  
+
 Files: impossibly_tall_bridge.jpg
  speeding_train_by_xander_jara.jpg
  streaming_butterfly_by_xander_jara.jpg
@@ -233,8 +233,8 @@ Comment: https://www.flickr.com/photos/146775741@N02/31933373630/in/pool-ubuntub
   If the license is not as specified above we will assume CC-BY-SA 4.0"
 License: CC-BY-SA-4.0
 
-Files: 12cordas_by_gill_santos.jpg,
- green_spikey_thing_by_gill_santos.jpg,
+Files: 12cordas_by_gill_santos.jpg
+ green_spikey_thing_by_gill_santos.jpg
  hipster_by_gill_santos.jpg
 Copyright: gill santos
 Comment: https://www.flickr.com/photos/72808219@N03/6950368328/in/pool-ubuntubudgie1710/
@@ -279,7 +279,7 @@ Comment: https://www.flickr.com/photos/shotbyjamespond/34894799574/in/pool-ubunt
   If the license is not as specified above we will assume CC-BY-SA 4.0"
 License: CC-BY-SA-4.0
 
-Files: bercuit_driveway_by_guy_renard.jpg,
+Files: bercuit_driveway_by_guy_renard.jpg
  pointy_red_by_guy_renard.jpg
 Copyright: guy renard
 Comment: https://www.flickr.com/photos/tusca/35753055512/in/pool-ubuntubudgie1710/
@@ -323,7 +323,7 @@ Comment: https://www.flickr.com/photos/145756788@N06/35313191921/in/pool-ubuntub
   If the license is not as specified above we will assume CC-BY-SA 4.0"
 License: CC-BY-SA-4.0
 
-Files: stray_dog_by_radu_galan.jpg,
+Files: stray_dog_by_radu_galan.jpg
  wintermas_lights_by_radu_galan.jpg
 Copyright: radu galan
 Comment: https://www.flickr.com/photos/radugalan/27248028544/in/pool-ubuntubudgie1710/

@@ -10,7 +10,7 @@ budgie-wallpapers (17.10) artful; urgency=medium
       add Artful binary package and make it the default install, with
       the equivalent zesty now added as a Suggests
 
- -- David Mohammed <fossfreedom@ubuntu.com>  Sat, 13 May 2017 22:46:53 +0100
+ -- David Mohammed <fossfreedom@ubuntu.com>  Thu, 27 Jul 2017 19:39:53 +0100
 
 budgie-wallpapers (17.04.2) zesty; urgency=medium
 
