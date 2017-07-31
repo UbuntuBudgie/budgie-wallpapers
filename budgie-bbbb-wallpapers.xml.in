@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <_name>Bench</_name>
+    <filename>/usr/share/backgrounds/budgie/bench_at_the_american_museum_of_natural_history_by_james_pond.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Unknown Flower</_name>
+    <filename>/usr/share/backgrounds/budgie/unknown_flower_by_ngynloc.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Common Kingfisher</_name>
+    <filename>/usr/share/backgrounds/budgie/common_kingfisher_by_sudhir_reddy.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Bee with Pink Flower</_name>
+    <filename>/usr/share/backgrounds/budgie/pink_bee_flower_by_gil_santos.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>bhimtal</_name>
+    <filename>/usr/share/backgrounds/budgie/bhimtal_by_anniruddha_kibey.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Cycles at sunset</_name>
+    <filename>/usr/share/backgrounds/budgie/cycles_at_sunset_by_radu_galan.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Captain Jack The Cat</_name>
+    <filename>/usr/share/backgrounds/budgie/captain_jack_the_cat_by_james_pond.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Flat Cycle</_name>
+    <filename>/usr/share/backgrounds/budgie/flatcycle_by_guy_renard.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Cyclist and coast trees</_name>
+    <filename>/usr/share/backgrounds/budgie/cyclist_and_coast_trees_by_jeena_paradies.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Bike Spoke</_name>
+    <filename>/usr/share/backgrounds/budgie/bike_spoke_by_aniruddha_kibey.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
