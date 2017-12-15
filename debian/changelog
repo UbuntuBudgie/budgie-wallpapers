@@ -1,3 +1,17 @@
+budgie-wallpapers (18.04) bionic; urgency=medium
+
+  * Community Contest Wallpapers for 18.04
+    - https://flickr.com/groups/ubuntubudgie17.10
+  * Packaging Changes:
+    - debian/control Bump StandardVersion, no changes required
+    - debian/control Add Bionic binary package and make it the default
+      install, with the equivalent artful now added as a Suggests
+    - debian/copyright Add copyright info for bionic wallpapers
+    - debian/copyright Change debian/* license to be GPL-2+
+    - debian/copyright Update instances of http:// to https://
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Fri, 15 Dec 2017 11:55:06 +0000
+
 budgie-wallpapers (17.10) artful; urgency=medium
 
   * Community Contest Wallpapers (LP: #1707043)
