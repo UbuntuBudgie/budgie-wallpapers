@@ -6,7 +6,7 @@ Files: *
 Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
            2006, Daniel Holbach <daniel.holbach@ubuntu.com>
            2010-2016 Ubuntu community contributors
-           2016-2017, David Mohammed <fossfreedom@ubuntu.com>
+           2016-2018, David Mohammed <fossfreedom@ubuntu.com>
 License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
  Unported License. To view a copy of this license, visit
@@ -14,7 +14,7 @@ License: CC-BY-SA-3.0
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
 Files: debian/*
-Copyright: 2016-2017, David Mohammed <fossfreedom@ubuntu.com>
+Copyright: 2016-2018, David Mohammed <fossfreedom@ubuntu.com>
 License: GPL-2+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -461,6 +461,83 @@ Comment: https://www.flickr.com/photos/jeena/34465110800/in/pool-ubuntubudgie171
   the license terms and that it is your work (or correctly attributed).
   If the license is not as specified above we will assume CC-BY-SA 4.0"
 License: CC-BY-SA-4.0
+
+Files: ice-cubes-3506781cosmic.jpg
+Copyright: Bruno Glätsch
+Comment: https://pixabay.com/en/ice-cubes-ice-water-cold-frozen-3506781/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
+
+Files: boats-3051610cosmic.jpg
+Copyright: Quangpraha
+Comment: https://pixabay.com/en/boats-sea-coast-calm-rowing-boats-3051610/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
+
+Files: message-in-a-bottle-3437294cosmic.jpg
+Copyright: Atlantios
+Comment: https://pixabay.com/en/message-in-a-bottle-bottle-sea-3437294/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
+
+Files: fish-3062034cosmic.jpg
+Copyright: Quangpraha
+Comment: https://pixabay.com/en/fish-fishermen-fishing-net-fishing-3062034/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
+
+Files: green-tea-2356770cosmic.jpg
+Copyright: dungthuyvunguyen
+Comment: https://pixabay.com/en/green-tea-drink-chinese-ceramics-2356770/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
+
+Files: gift-548290cosmic.jpg
+Copyright: blickpixel
+Comment: https://pixabay.com/en/gift-made-surprise-loop-christmas-548290/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
+
+Files: mattress-2489615cosmic.jpg
+Copyright: congerdesign
+Comment: https://pixabay.com/en/mattress-bed-pillow-sleep-relax-2489615/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
+
+Files: skyscraper-3094696cosmic.jpg
+Copyright: jplenio
+Comment: https://pixabay.com/en/skyscraper-architecture-city-sky-3094696/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
+
+Files: coffee-802057cosmic.jpg
+Copyright: Free-Photos
+Comment: https://pixabay.com/en/coffee-machine-portafilter-brewing-802057/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
+
+Files: bird-3158784cosmic.jpg
+Copyright: Atlantios
+Comment: https://pixabay.com/en/bird-seagull-flying-wings-gull-3158784/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
+
+Files: knowledge-1052010cosmic.jpg
+Copyright: DariuszSankowski
+Comment: https://pixabay.com/en/knowledge-book-library-glasses-1052010/
+ .
+ https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+License: CC0
 
 License: CC-BY-SA-4.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 4.0

@@ -4,7 +4,7 @@
 #export DH_VERBOSE=1
 
 %:
-	dh $@ --with python2 --parallel
+	dh $@ --with python2
 
 override_dh_install:
 	rm -r debian/tmp/usr/lib/python*

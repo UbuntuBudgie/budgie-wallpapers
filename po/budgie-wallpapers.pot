@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-05 20:19+0100\n"
+"POT-Creation-Date: 2018-08-19 21:46+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,6 +19,18 @@ msgstr ""
 
 #: ../budgie-wallpapers.xml.in.h:1
 msgid "Xplo_by_Hugo_Cliff"
+msgstr ""
+
+#: ../budgie-wallpapers.xml.in.h:2
+msgid "ubuntu_budgie_wallpaper1"
+msgstr ""
+
+#: ../budgie-wallpapers.xml.in.h:3
+msgid "ubuntu_budgie_wallpaper2"
+msgstr ""
+
+#: ../budgie-wallpapers.xml.in.h:4
+msgid "ubuntu_budgie_wallpaper3"
 msgstr ""
 
 #: ../budgie-xenial-wallpapers.xml.in.h:1
@@ -75,4 +87,168 @@ msgstr ""
 
 #: ../budgie-yakkety-wallpapers.xml.in.h:8
 msgid "Cobweb"
+msgstr ""
+
+#: ../budgie-zesty-wallpapers.xml.in.h:1
+msgid "World Photo Walk Day"
+msgstr ""
+
+#: ../budgie-zesty-wallpapers.xml.in.h:2
+msgid "Feathers"
+msgstr ""
+
+#: ../budgie-zesty-wallpapers.xml.in.h:3
+msgid "Impossibly Tall Bridge"
+msgstr ""
+
+#: ../budgie-zesty-wallpapers.xml.in.h:4
+msgid "Playground"
+msgstr ""
+
+#: ../budgie-zesty-wallpapers.xml.in.h:5
+msgid "Sand"
+msgstr ""
+
+#: ../budgie-zesty-wallpapers.xml.in.h:6
+msgid "Speeding Train"
+msgstr ""
+
+#: ../budgie-zesty-wallpapers.xml.in.h:7
+msgid "Streaming Butterfly"
+msgstr ""
+
+#: ../budgie-zesty-wallpapers.xml.in.h:8
+msgid "Tarmac"
+msgstr ""
+
+#: ../budgie-zesty-wallpapers.xml.in.h:9
+msgid "Beach"
+msgstr ""
+
+#: ../budgie-artful-wallpapers.xml.in.h:1
+msgid "12 Cordas"
+msgstr ""
+
+#: ../budgie-artful-wallpapers.xml.in.h:2
+msgid "Beacon"
+msgstr ""
+
+#: ../budgie-artful-wallpapers.xml.in.h:3
+msgid "Bercuit Driveway"
+msgstr ""
+
+#: ../budgie-artful-wallpapers.xml.in.h:4
+msgid "Clock"
+msgstr ""
+
+#: ../budgie-artful-wallpapers.xml.in.h:5
+msgid "Green Spikey Thing"
+msgstr ""
+
+#: ../budgie-artful-wallpapers.xml.in.h:6
+msgid "Hipster"
+msgstr ""
+
+#: ../budgie-artful-wallpapers.xml.in.h:7
+msgid "Pointy Red"
+msgstr ""
+
+#: ../budgie-artful-wallpapers.xml.in.h:8
+msgid "Stray Dog"
+msgstr ""
+
+#: ../budgie-artful-wallpapers.xml.in.h:9
+msgid "Tramea Basilaris"
+msgstr ""
+
+#: ../budgie-artful-wallpapers.xml.in.h:10
+msgid "Wintermas"
+msgstr ""
+
+#: ../budgie-bionic-wallpapers.xml.in.h:1
+msgid "Bench"
+msgstr ""
+
+#: ../budgie-bionic-wallpapers.xml.in.h:2
+msgid "Unknown Flower"
+msgstr ""
+
+#: ../budgie-bionic-wallpapers.xml.in.h:3
+msgid "Common Kingfisher"
+msgstr ""
+
+#: ../budgie-bionic-wallpapers.xml.in.h:4
+msgid "Bee with Pink Flower"
+msgstr ""
+
+#: ../budgie-bionic-wallpapers.xml.in.h:5
+msgid "bhimtal"
+msgstr ""
+
+#: ../budgie-bionic-wallpapers.xml.in.h:6
+msgid "Cycles at sunset"
+msgstr ""
+
+#: ../budgie-bionic-wallpapers.xml.in.h:7
+msgid "Captain Jack The Cat"
+msgstr ""
+
+#: ../budgie-bionic-wallpapers.xml.in.h:8
+msgid "Flat Cycle"
+msgstr ""
+
+#: ../budgie-bionic-wallpapers.xml.in.h:9
+msgid "Cyclist and coast trees"
+msgstr ""
+
+#: ../budgie-bionic-wallpapers.xml.in.h:10
+msgid "Bike Spoke"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:1
+msgid "Birds Eye View"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:2
+msgid "Bird"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:3
+msgid "Boats"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:4
+msgid "Coffee"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:5
+msgid "Fish"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:6
+msgid "Gift"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:7
+msgid "Green Tea"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:8
+msgid "Ice Cubes"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:9
+msgid "Knowledge"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:10
+msgid "Mattress"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:11
+msgid "Message in a bottle"
+msgstr ""
+
+#: ../budgie-cosmic-wallpapers.xml.in.h:12
+msgid "Skyscraper"
 msgstr ""

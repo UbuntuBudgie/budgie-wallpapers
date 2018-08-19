@@ -1,9 +1,22 @@
+budgie-wallpapers (18.10) cosmic; urgency=medium
+
+  * Team Showcase Wallpapers for 18.10
+  * Packaging Changes:
+    - debian/control Bump StandardsVersion, no changes required
+    - debian/control Add cosmic package and make it the default
+      install with the equivalent bionic now added as a Suggests
+    - debian/control & compat use debhelper 11
+    - debian/copyright Add copyright info for cosmic wallpapers
+      revise copyright year
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Sun, 19 Aug 2018 20:50:34 +0100
+
 budgie-wallpapers (18.04) bionic; urgency=medium
 
   * Community Contest Wallpapers for 18.04
     - https://flickr.com/groups/ubuntubudgie17.10
   * Packaging Changes:
-    - debian/control Bump StandardVersion, no changes required
+    - debian/control Bump StandardsVersion, no changes required
     - debian/control Add Bionic binary package and make it the default
       install, with the equivalent artful now added as a Suggests
     - debian/copyright Add copyright info for bionic wallpapers
