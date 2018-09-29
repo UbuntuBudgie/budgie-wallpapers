@@ -3,9 +3,12 @@
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
 
+export PYBUILD_NAME=budgie-wallpapers
+export PYBUILD_INTERPRETERS=python3
+
 %:
-	dh $@ --with python2
+	dh $@ --with python3 --buildsystem=pybuild
 
 override_dh_install:
-	rm -r debian/tmp/usr/lib/python*
-	dh_install --list-missing
+	rm -r debian/python3-budgie-wallpapers/usr/lib/python*
+	dh_install --sourcedir debian/python3-budgie-wallpapers --list-missing

@@ -4,8 +4,8 @@ Priority: optional
 Maintainer: David Mohammed <fossfreedom@ubuntu.com>
 Build-Depends: debhelper (>= 11),
                dh-python,
-               python
-Build-Depends-Indep: python-distutils-extra,
+               python3-all
+Build-Depends-Indep: python3-distutils-extra,
 Standards-Version: 4.1.4
 Homepage: https://github.com/UbuntuBudgie
 Vcs-Browser: https://github.com/UbuntuBudgie/budgie-wallpapers
@@ -72,5 +72,3 @@ Description: Ubuntu Budgie 18.10 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 18.10).
  Selection of wallpapers to showcase Ubuntu Budgie.
  This package can be installed on any version of Ubuntu.
-
-
