@@ -1,8 +1,26 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import glob
 
-PREAMBLE = """<background>
+ENTRY = """  <static>
+    <duration>1795.0</duration>
+    <file>{image_filename}</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>{image_filename}</from>
+    <to>{next_image_filename}</to>
+  </transition>"""
+
+PATH = '/usr/share/backgrounds/budgie/'
+
+
+images = glob.glob('*.jpg')
+m = len(images)
+
+# Print a preamble.
+print(
+    """<background>
   <starttime>
     <year>2009</year>
     <month>08</month>
@@ -11,35 +29,18 @@ PREAMBLE = """<background>
     <minute>00</minute>
     <second>00</second>
   </starttime>
-<!-- This animation will start at midnight. -->
-"""
+<!-- This animation will start at midnight. -->""",
+)
 
-ENTRY = """  <static>
-    <duration>1795.0</duration>
-    <file>%(a)s</file>
-  </static>
-  <transition>
-    <duration>5.0</duration>
-    <from>%(a)s</from>
-    <to>%(b)s</to>
-  </transition>
-"""
+# Print entries.
+for i in range(m):
+    print(
+        ENTRY.format(
+            image_filename=PATH + images[i],
+            # Using modulo to show the first wallpaper after the last one.
+            next_image_filename=PATH + images[(i + 1) % m],
+        ),
+    )
 
-FOOTER = """</background>
-"""
-
-PATH='/usr/share/backgrounds/budgie/'
-
-def main():
-    images = glob.glob('*.jpg')
-    m = len(images)
-
-    output = ''
-    output += PREAMBLE 
-    for i in xrange(m):
-        output += ENTRY % {'a': PATH + images[i], 'b': PATH + images[(i+1) % m]}
-    output += FOOTER
-    print output,
-
-if __name__ == '__main__':
-    main()
+# Print a footer.
+print('</background>')

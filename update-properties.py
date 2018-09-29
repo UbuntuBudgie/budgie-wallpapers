@@ -1,38 +1,34 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import glob
 
-PREAMBLE = """<?xml version="1.0"?>
-<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
-<wallpapers>
-"""
-
 ENTRY = """  <wallpaper>
-    <_name>%(b)s</_name>
-    <filename>%(a)s</filename>
+    <_name>{name}</_name>
+    <filename>{filename}</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
-  </wallpaper>
-"""
+  </wallpaper>"""
 
+PATH = '/usr/share/backgrounds/budgie/'
 
-FOOTER = """</wallpapers>
-"""
+# Print a preamble.
+print(
+    """<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>""",
+)
 
-PATH='/usr/share/backgrounds/budgie/'
+# Print entries.
+for image_filename in glob.glob('*.jpg'):
+    print(
+        ENTRY.format(
+            filename=PATH + image_filename,
+            # Example: 'ubuntu_budgie_wallpaper1.jpg' -> 'Ubuntu'.
+            name=image_filename.split('_', maxsplit=1)[0].capitalize(),
+        ),
+    )
 
-def main():
-    images = glob.glob('*.jpg')
-    m = len(images)
-
-    output = ''
-    output += PREAMBLE 
-    for i in xrange(m):
-        output += ENTRY % {'a': PATH + images[i], 'b': images[(i)].split('_')[0].capitalize()}
-    output += FOOTER
-    print output,
-
-if __name__ == '__main__':
-    main()
+# Print a footer.
+print('</wallpapers>')
