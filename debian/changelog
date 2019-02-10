@@ -1,12 +1,3 @@
-budgie-wallpapers (19.04) UNRELEASED; urgency=medium
-
-  * Replace python 2 based build with python3
-  * Packaging Changes:
-    - Add new build test case (need to check that it is run during the build)
-    - Bump Standards-Version; rules updated to make build verbose
-
- -- David Mohammed <fossfreedom@ubuntu.com>  Mon, 01 Oct 2018 11:34:57 +0100
-
 budgie-wallpapers (18.10) cosmic; urgency=medium
 
   * Team Showcase Wallpapers for 18.10
