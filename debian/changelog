@@ -1,4 +1,4 @@
-budgie-wallpapers (18.12) disco; urgency=medium
+budgie-wallpapers (19.04) disco; urgency=medium
 
   * Team Showcase Wallpapers for 19.04
   * Packaging Changes:
@@ -7,6 +7,8 @@ budgie-wallpapers (18.12) disco; urgency=medium
       install with the equivalent cosmic now added as a Suggests
     - debian/copyright Add copyright info for disco wallpapers
       revise copyright year
+      Expand CC-BY-SA-3.0/4.0 copyright statement as per
+      Debian policy
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Fri, 15 Feb 2019 19:32:23 +0000
 
@@ -87,4 +89,3 @@ budgie-wallpapers (16.04.1.1) yakkety; urgency=medium
   * Initial release (LP: #1594585)
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Thu, 21 Jul 2016 11:41:27 +0200
-

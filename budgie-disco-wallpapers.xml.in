@@ -59,7 +59,7 @@
   </wallpaper>
   <wallpaper>
     <_name>watch macro</_name>
-    <filename>/usr/share/backgrounds/budgie/watch-macro.jpg watch_macro_by_peter_heeling.jpg</filename>
+    <filename>/usr/share/backgrounds/budgie/watch_macro_by_peter_heeling.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -75,7 +75,7 @@
   </wallpaper>
   <wallpaper>
     <_name>Colored Water Drop</_name>
-    <filename>/usr/share/backgrounds/budgie/aquamarine-drop.jpg aquamarine_droplet_by_peter_heeling.jpg</filename>
+    <filename>/usr/share/backgrounds/budgie/aquamarine_droplet_by_peter_heeling.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
