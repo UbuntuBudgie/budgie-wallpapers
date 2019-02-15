@@ -6,7 +6,7 @@ Files: *
 Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
            2006, Daniel Holbach <daniel.holbach@ubuntu.com>
            2010-2016 Ubuntu community contributors
-           2016-2018, David Mohammed <fossfreedom@ubuntu.com>
+           2016-2019, David Mohammed <fossfreedom@ubuntu.com>
 License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
  Unported License. To view a copy of this license, visit
@@ -14,7 +14,7 @@ License: CC-BY-SA-3.0
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
 Files: debian/*
-Copyright: 2016-2018, David Mohammed <fossfreedom@ubuntu.com>
+Copyright: 2016-2019, David Mohammed <fossfreedom@ubuntu.com>
 License: GPL-2+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -536,7 +536,98 @@ Files: knowledge-1052010cosmic.jpg
 Copyright: DariuszSankowski
 Comment: https://pixabay.com/en/knowledge-book-library-glasses-1052010/
  .
- https://pixabay.com/en/blog/posts/public-domain-images-what-is-allowed-and-what-is-4/
+ Site submit rules state
+License: CC0
+
+Files: coffee_on_bench_by_mikesh_kaos.jpg
+Copyright: Mikesh Kaos
+Comment: https://magdeleine.co/photo-mikesh-kaos-n-1126/
+ .
+ https://magdeleine.co/submit-photo/ states the following:
+ "CHECK THIS TO AUTHORISE US TO REDISTRIBUTE YOUR PHOTO WITH CC0 LICENSE ON
+  MAGDELEINE.CO"
+License: CC0
+
+Files: camera_and_spectacles_by_bino_storyteller.jpg
+Copyright: Bino Storyteller
+Comment: https://magdeleine.co/photo-bino-storyteller-n-876/
+ .
+ https://magdeleine.co/submit-photo/ states the following:
+ "CHECK THIS TO AUTHORISE US TO REDISTRIBUTE YOUR PHOTO WITH CC0 LICENSE ON
+  MAGDELEINE.CO"
+License: CC0
+
+Files: bike_wheel_by_michal_kulesza.jpg
+Copyright: Michal Kulesza
+Comment: https://magdeleine.co/photo-by-michal-kulesza-n-483/
+ .
+ https://magdeleine.co/submit-photo/ states the following:
+ "CHECK THIS TO AUTHORISE US TO REDISTRIBUTE YOUR PHOTO WITH CC0 LICENSE ON
+  MAGDELEINE.CO"
+License: CC0
+
+Files: standing_by_waterfall_by_jared_erondu.jpg
+Copyright: Jared Erondu
+Comment: https://magdeleine.co/photo-by-jared-erondu-n-435/
+ .
+ https://magdeleine.co/submit-photo/ states the following:
+ "CHECK THIS TO AUTHORISE US TO REDISTRIBUTE YOUR PHOTO WITH CC0 LICENSE ON
+  MAGDELEINE.CO"
+License: CC0
+
+Files: feather_on_windowsill_by_jill_heyer.jpg
+Copyright: Jill Heyer
+Comment: https://magdeleine.co/photo-by-jill-heyer-n-252/
+ .
+ https://magdeleine.co/submit-photo/ states the following:
+ "CHECK THIS TO AUTHORISE US TO REDISTRIBUTE YOUR PHOTO WITH CC0 LICENSE ON
+  MAGDELEINE.CO"
+License: CC0
+
+Files: three_skydivers_by_didier_baertschiger.jpg
+Copyright: Didier Baertschiger
+Comment: https://magdeleine.co/photo-by-didier-baertschiger-n-232/
+ .
+ https://magdeleine.co/submit-photo/ states the following:
+ "CHECK THIS TO AUTHORISE US TO REDISTRIBUTE YOUR PHOTO WITH CC0 LICENSE ON
+  MAGDELEINE.CO"
+License: CC0
+
+Files: quignone_the_cat_by_thomas_jarrand.jpg
+Copyright: Thomas Jarrand
+Comment: https://magdeleine.co/photo-thomas-jarrand-n-155/
+ .
+ https://magdeleine.co/submit-photo/ states the following:
+ "CHECK THIS TO AUTHORISE US TO REDISTRIBUTE YOUR PHOTO WITH CC0 LICENSE ON
+  MAGDELEINE.CO"
+License: CC0
+
+Files: watch_macro_by_peter_heeling.jpg
+Copyright: Peter Heeling
+Comment: https://skitterphoto.com/photos/1161/watch-macro
+ .
+ https://skitterphoto.com/license
+License: CC0
+
+Files: donald_spotlight_by_peter_heeling.jpg
+Copyright: Peter Heeling
+Comment: https://skitterphoto.com/photos/342/donald-duck-in-the-spotlight
+ .
+ https://skitterphoto.com/license
+License: CC0
+
+Files: aquamarine_droplet_by_peter_heeling.jpg
+Copyright: Peter Heeling
+Comment: https://skitterphoto.com/photos/3610/colored-water-drop
+ .
+ https://skitterphoto.com/license
+License: CC0
+
+Files: cute_puppy_by_rudy_van_der_veen.jpg
+Copyright: Rudy van der Veen
+Comment: https://skitterphoto.com/photos/4168/cute-puppy
+ .
+ https://skitterphoto.com/license
 License: CC0
 
 License: CC-BY-SA-4.0

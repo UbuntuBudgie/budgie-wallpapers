@@ -1,8 +1,14 @@
-budgie-wallpapers (18.11) disco; urgency=medium
+budgie-wallpapers (18.12) disco; urgency=medium
 
-  * test package with udaras work
+  * Team Showcase Wallpapers for 19.04
+  * Packaging Changes:
+    - debian/control Bump StandardsVersion, no changes required
+    - debian/control Add disco package and make it the default
+      install with the equivalent cosmic now added as a Suggests
+    - debian/copyright Add copyright info for disco wallpapers
+      revise copyright year
 
- -- David Mohammed <fossfreedom@ubuntu.com>  Mon, 11 Feb 2019 21:09:21 +0000
+ -- David Mohammed <fossfreedom@ubuntu.com>  Fri, 15 Feb 2019 19:32:23 +0000
 
 budgie-wallpapers (18.10) cosmic; urgency=medium
 
