@@ -1,16 +1,16 @@
-budgie-wallpapers (19.10) UNRELEASED; urgency=medium
+budgie-wallpapers (19.10) eoan; urgency=medium
 
   * Team Showcase Wallpapers for 19.10
   * Packaging Changes:
-    - debian/control Bump StandardsVersion, no changes required
-    - debian/control & compat - update for debhelper 12
-    - debian/rules - remove list-missing since this is dh12 default
+    - debian/control Bump StandardsVersion; use verbose build
+    - debian/control & compat Updated to debhelper 12
+    - debian/control & rules use pybuild and python3
     - debian/control Add eoan package and make it the default
       install with the equivalent disco now added as a Suggests
     - debian/copyright Add copyright info for eoan wallpapers
-      revise copyright year
+    - debian/rules update to use dh_missing
 
- -- David Mohammed <fossfreedom@ubuntu.com>  Thu, 08 Aug 2019 00:22:21 +0100
+ -- David Mohammed <fossfreedom@ubuntu.com>  Thu, 08 Aug 2019 22:23:37 +0100
 
 budgie-wallpapers (19.04) disco; urgency=medium
 
