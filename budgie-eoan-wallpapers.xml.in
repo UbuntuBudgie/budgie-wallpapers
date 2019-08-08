@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <_name>darksky</_name>
+    <filename>/usr/share/backgrounds/budgie/darksky_by_bryant_stiven_salazar_aguirre.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>espresso-in-small-cup</_name>
+    <filename>/usr/share/backgrounds/budgie/espresso_in_small_cup_by_brodie_vissers.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>manuscript</_name>
+    <filename>/usr/share/backgrounds/budgie/manuscript_by_phan_minh_cuong.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>window in window</_name>
+    <filename>/usr/share/backgrounds/budgie/window_in_window_by_stefan_serena.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>peaking sun in lake</_name>
+    <filename>/usr/share/backgrounds/budgie/peaking_sun_in_lake_by_eberhard_grossgasteiger.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>rough water</_name>
+    <filename>/usr/share/backgrounds/budgie/rough_water_by_ryan_mcgilchrist.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>explore</_name>
+    <filename>/usr/share/backgrounds/budgie/explore_by_andrew_neel.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>sun throught trees</_name>
+    <filename>/usr/share/backgrounds/budgie/sun_through_trees_by_annie_spratt.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>tyre swing</_name>
+    <filename>/usr/share/backgrounds/budgie/tyre_swing_by_scott_webb.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>sea sky light</_name>
+    <filename>/usr/share/backgrounds/budgie/sea_sky_light_by_didier_baertschiger.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
