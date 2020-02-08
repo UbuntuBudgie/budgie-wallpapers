@@ -7,6 +7,7 @@ Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
            2006, Daniel Holbach <daniel.holbach@ubuntu.com>
            2010-2016 Ubuntu community contributors
            2016-2019, David Mohammed <fossfreedom@ubuntu.com>
+           2020, David Mohammed <fossfreedom@ubuntu.com>
 License: CC-BY-SA-3.0
  Unless otherwise indicated, artwork is available under the Creative
  Commons Attribution Share-alike license v3.0 or any later version. To
@@ -989,6 +990,61 @@ Comment: https://magdeleine.co/photo-didier-baertschiger-n-577/
  "CHECK THIS TO AUTHORISE US TO REDISTRIBUTE YOUR PHOTO WITH CC0 LICENSE ON
   MAGDELEINE.CO"
 License: CC0
+
+Files: be-quiet-priest-sculpture-in-venlo_by_raffael_herrmann.jpg
+Copyright: Raffael Herrmann
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC0
+
+Files: wood_construction_by_stephen.jpg
+Copyright: Stephen
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC-BY-SA-4.0
+
+Files: pebbles_by_gurjus_bhasin.jpg
+Copyright: Gurjus Bhasin
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC-BY-SA-4.0
+
+Files: all_with_wheels_by_aabhas_lall.jpg
+Copyright: Aabhas Lall
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC-BY-SA-4.0
+
+Files: boat-on-the-beach_by_william_beckwith.jpg
+Copyright: William Beckwith
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC-BY-SA-4.0
+
+Files: mountain-lake_by_william_beckwith.jpg
+Copyright: William Beckwith
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC-BY-SA-4.0
+
+Files: sunlight_on_the_pages_of_an_open_book_by_rahul_pandit.jpg
+Copyright: Rahul Pandit
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC0
+
+Files: delicate_by_juan_cabello.jpg
+Copyright: Juan Cabello
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC-BY-SA-4.0
+
+Files: pink_bridge_light_by_aabhas_lall.jpg
+Copyright: Aabhas Lall
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC-BY-SA-4.0
+
+Files: lonely_tree_by_aabhas_lall.jpg
+Copyright: Aabhas Lall
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC-BY-SA-4.0
+
+Files: blue-surface_by_gurjus_bhasin.jpg
+Copyright: Gurjus Bhasin
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-20-04-wallpaper-contest/2753
+License: CC-BY-SA-4.0
 
 License: CC-BY-SA-4.0
  Unless otherwise indicated, artwork is available under the Creative
