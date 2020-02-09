@@ -1,8 +1,19 @@
+budgie-wallpapers (20.04) focal; urgency=medium
+
+  * Community Showcase Wallpapers for 20.04
+  * Packaging Changes:
+    - debian/control Bump Standards-Version; no changes required
+    - Add focal package and make it the default
+      install with the equivalent eoan now added as a Suggests
+    - debian/copyright Add copyright info for the focal wallpapers
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Sun, 09 Feb 2020 23:18:09 +0000
+
 budgie-wallpapers (19.10) eoan; urgency=medium
 
   * Team Showcase Wallpapers for 19.10
   * Packaging Changes:
-    - debian/control Bump StandardsVersion; use verbose build
+    - debian/control Bump Standards-Version; use verbose build
     - debian/control & compat Updated to debhelper 12
     - debian/control & rules use pybuild and python3
     - debian/control Add eoan package and make it the default
@@ -16,7 +27,7 @@ budgie-wallpapers (19.04) disco; urgency=medium
 
   * Team Showcase Wallpapers for 19.04
   * Packaging Changes:
-    - debian/control Bump StandardsVersion, no changes required
+    - debian/control Bump Standards-Version, no changes required
     - debian/control Add disco package and make it the default
       install with the equivalent cosmic now added as a Suggests
     - debian/copyright Add copyright info for disco wallpapers
@@ -30,7 +41,7 @@ budgie-wallpapers (18.10) cosmic; urgency=medium
 
   * Team Showcase Wallpapers for 18.10
   * Packaging Changes:
-    - debian/control Bump StandardsVersion, no changes required
+    - debian/control Bump Standards-Version, no changes required
     - debian/control Add cosmic package and make it the default
       install with the equivalent bionic now added as a Suggests
     - debian/control & compat use debhelper 11
@@ -44,7 +55,7 @@ budgie-wallpapers (18.04) bionic; urgency=medium
   * Community Contest Wallpapers for 18.04
     - https://flickr.com/groups/ubuntubudgie17.10
   * Packaging Changes:
-    - debian/control Bump StandardsVersion, no changes required
+    - debian/control Bump Standards-Version, no changes required
     - debian/control Add Bionic binary package and make it the default
       install, with the equivalent artful now added as a Suggests
     - debian/copyright Add copyright info for bionic wallpapers
