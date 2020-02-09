@@ -6,6 +6,7 @@ budgie-wallpapers (20.04) focal; urgency=medium
     - Add focal package and make it the default
       install with the equivalent eoan now added as a Suggests
     - debian/copyright Add copyright info for the focal wallpapers
+    - debian/copyright replace tabs with spaces to resolve lintian warning
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Sun, 09 Feb 2020 23:18:09 +0000
 
