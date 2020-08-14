@@ -4,7 +4,7 @@ budgie-wallpapers (20.10) groovy; urgency=medium
   * Packaging Changes:
     - control: add groovy package and make it the default
       install with the equivalent focal now added as a Suggests
-    - copyright: Add copyright info the the groovy wallpapers
+    - copyright: Add copyright info for the groovy wallpapers
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Fri, 14 Aug 2020 11:21:07 +0100
 
