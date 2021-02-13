@@ -1,3 +1,13 @@
+budgie-wallpapers (21.04) hirsute; urgency=medium
+
+  * Team Showcase Wallpapers for 21.04
+  * Packaging Changes:
+    - control: add hirsute package and make it the default
+      install with the equivalent groovy now added as a Suggests
+    - copyright: Add copyright info for the hirsute wallpapers
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Sat, 13 Feb 2021 21:03:14 +0000
+
 budgie-wallpapers (20.10) groovy; urgency=medium
 
   * Team Showcase Wallpapers for 20.10

@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <_name>sea coast</_name>
+    <filename>/usr/share/backgrounds/budgie/sea_coast_by_pasquale_vitiello.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>himalayan salt on a spoon</_name>
+    <filename>/usr/share/backgrounds/budgie/himalayan_salt_on_a_spoon_by_karolina_grabowska.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>cat on back</_name>
+    <filename>/usr/share/backgrounds/budgie/cat_on_back_by_bastian_greshake_tzovaras.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>dog by bay</_name>
+    <filename>/usr/share/backgrounds/budgie/dog_by_bay_by_matthias_ripp.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>abstract lights</_name>
+    <filename>/usr/share/backgrounds/budgie/abstract_lights_by_matthias_ripp.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>this is us</_name>
+    <filename>/usr/share/backgrounds/budgie/this_is_us_by_alan_levine.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>clear water rocks</_name>
+    <filename>/usr/share/backgrounds/budgie/clear_water_rocks_by_brodie_vissers.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>city view binoculars</_name>
+    <filename>/usr/share/backgrounds/budgie/city_view_binoculars_by_brodie_vissers.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>living room brick wall</_name>
+    <filename>/usr/share/backgrounds/budgie/living_room_brick_wall_by_brodie_vissers.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>woman pauses at foot of waterfall</_name>
+    <filename>/usr/share/backgrounds/budgie/woman_pauses_at_foot_of_waterfall_by_daria_lisovtsova.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>bulb</_name>
+    <filename>/usr/share/backgrounds/budgie/bulb_by_jonathan_petersson.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
