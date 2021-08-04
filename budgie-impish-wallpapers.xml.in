@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <_name>city lights in darnkess</_name>
+    <filename>/usr/share/backgrounds/budgie/city-lights-in-darkness_by_matthew_henry.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>one-way</_name>
+    <filename>/usr/share/backgrounds/budgie/one-way_by_ryan_mcguire.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>starry night</_name>
+    <filename>/usr/share/backgrounds/budgie/starry-night_by_adrian_pelletier.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>iphone photography</_name>
+    <filename>/usr/share/backgrounds/budgie/iphone-photography_by_brodie_vissers.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>sparkle magic</_name>
+    <filename>/usr/share/backgrounds/budgie/sparkle-magic_by_bryant_stiven_salazar_aguirre.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>trekking</_name>
+    <filename>/usr/share/backgrounds/budgie/trekking_by_aatlas.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>iso-republic tiny floral bokeh</_name>
+    <filename>/usr/share/backgrounds/budgie/iso-republic-tiny-floral-bokeh_by_birch_landing_home.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>blossom</_name>
+    <filename>/usr/share/backgrounds/budgie/blossom_by_monika_murren.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>dog</_name>
+    <filename>/usr/share/backgrounds/budgie/dog_by_will_langenberg.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>alley antique</_name>
+    <filename>/usr/share/backgrounds/budgie/alley-antique_by_brett_sayles.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
