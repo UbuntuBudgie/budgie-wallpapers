@@ -1,3 +1,16 @@
+budgie-wallpapers (21.10) impish; urgency=medium
+
+  * Team Showcase Wallpapers for 21.10
+  * Packaging Changes:
+    - control: add impish package and make it the default
+      install with the equivalent hirsute now added as a Suggests
+    - copyright: Add copyright info for the impish wallpapers
+    - control: remove old compat and replace with debhelper-compat
+    - control: bump debhelper to 13 - no changes required
+    - control: add Rules-Requires-Root
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Wed, 04 Aug 2021 21:31:39 +0100
+
 budgie-wallpapers (21.04) hirsute; urgency=medium
 
   * Team Showcase Wallpapers for 21.04
