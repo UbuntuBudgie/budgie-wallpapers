@@ -5,7 +5,7 @@ budgie-wallpapers (21.90) jammy; urgency=medium
     - control: bump StandardsVersion; no changes required
     - control: add jammy package and make it the default
       install with the equivalent impish now added as a Suggests
-    - copyright: Add copyright info the the jammy wallpapers
+    - copyright: Add copyright info for the jammy wallpapers
 
  -- David Mohammed <fossfreedom@ubuntu.com>  Sun, 13 Feb 2022 19:06:10 +0000
 

@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 13),
                dh-python,
                python3
 Build-Depends-Indep: python3-distutils-extra,
-Standards-Version: 4.5.1
+Standards-Version: 4.6.0
 Homepage: https://github.com/UbuntuBudgie
 Rules-Requires-Root: no
 Vcs-Browser: https://github.com/UbuntuBudgie/budgie-wallpapers
