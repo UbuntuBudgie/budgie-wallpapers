@@ -1,3 +1,13 @@
+budgie-wallpapers (22.10) UNRELEASED; urgency=medium
+
+  * Team Showcase Wallpapers for 22.10
+  * Packaging Changes:
+    - control: add kinetic package and make it the default
+      install with the equivalent jammy now added as a Suggests
+    - copyright: Add copyright info for the kinetic wallpapers
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Fri, 15 Jul 2022 14:46:11 +0100
+
 budgie-wallpapers (22.04) jammy; urgency=medium
 
   * Ubuntu Budgie 22.04 Wallpaper Competition
