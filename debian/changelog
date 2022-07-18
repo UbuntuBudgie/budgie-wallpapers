@@ -1,4 +1,4 @@
-budgie-wallpapers (22.10) UNRELEASED; urgency=medium
+budgie-wallpapers (22.10) kinetic; urgency=medium
 
   * Team Showcase Wallpapers for 22.10
   * Packaging Changes:
@@ -6,7 +6,7 @@ budgie-wallpapers (22.10) UNRELEASED; urgency=medium
       install with the equivalent jammy now added as a Suggests
     - copyright: Add copyright info for the kinetic wallpapers
 
- -- David Mohammed <fossfreedom@ubuntu.com>  Fri, 15 Jul 2022 14:46:11 +0100
+ -- David Mohammed <fossfreedom@ubuntu.com>  Mon, 18 Jul 2022 15:05:26 +0100
 
 budgie-wallpapers (22.04) jammy; urgency=medium
 
