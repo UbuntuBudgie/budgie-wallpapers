@@ -1,8 +1,12 @@
-budgie-wallpapers (23.04) UNRELEASED; urgency=medium
+budgie-wallpapers (23.04) lunar; urgency=medium
 
-  * Upscale Xplo and convert to jpg
+  * Team Showcase Wallpapers for 23.04
+  * Packaging Changes
+    - control: add lunar package and make it the default
+      install with the equivalent kinetic now added as a Suggests
+    - copyright: Add copyright info for the lunar wallpapers
 
- -- David Mohammed <fossfreedom@ubuntu.com>  Tue, 30 Aug 2022 21:05:03 +0100
+ -- David Mohammed <fossfreedom@ubuntu.com>  Mon, 13 Feb 2023 21:30:33 +0000
 
 budgie-wallpapers (22.10) kinetic; urgency=medium
 

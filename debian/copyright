@@ -285,7 +285,7 @@ License: CC-BY-SA-3.0
  Creative Commons may be contacted at http://creativecommons.org/
 
 Files: debian/*
-Copyright: 2016-2019, David Mohammed <fossfreedom@ubuntu.com>
+Copyright: 2016-2023, David Mohammed <fossfreedom@ubuntu.com>
 License: GPL-2+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -1299,6 +1299,46 @@ License: CC0
 Files: mirror_walk_by_georgie_pauwels.jpg
 Copyright: Georgie Pauwels
 Comment: https://magdeleine.co/photo-by-georgie-pauwels-n-1610/
+License: CC0
+
+Files: warrior_door_handle_by_mattias_andersson.jpg
+Copyright: Mattias Andersson
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-22-04-wallpaper-contest selected for 23.04
+License: CC0
+
+Files: beachrock_by_jacob_vlijm.jpg
+Copyright: Jacob Vlijm
+Comment: Community contribution for 23.04
+License: CC0
+
+Files: coconut-on-the-beach_by_jakub_kapusnak.jpg
+Copyright: Jakub Kapusnak
+Comment: https://magdeleine.co/photo-by-jakub-kapusnak-n-1648/
+License: CC0
+
+Files: leaf_tip_by_MG_2204_contest.jpg
+Copyright: MG 22.04 Contest contribution
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-22-04-wallpaper-contest selected for 23.04
+License: CC0
+
+Files: oldshutters_by_jacob_vlijm.jpg
+Copyright: Jacob Vlijm
+Comment: Community contribution for 23.04
+License: CC0
+
+Files: salt-in-a-glass-container_by_karolina_grabowska.jpg
+Copyright: Georgie Pauwels
+Comment: https://magdeleine.co/photo-by-karolina-grabowska-n-1636/
+License: CC0
+
+Files: stardust_by_angela_c.jpg
+Copyright: Angela C
+Comment: https://magdeleine.co/photo-by-angela-c-n-1605/
+License: CC-BY-SA-4.0
+
+Files: tables_and_water_by_alexey_dulin.jpg
+Copyright: Alexey Dulin
+Comment: https://magdeleine.co/photo-by-alexey-dulin-n-1612/
 License: CC0
 
 License: CC-BY-SA-4.0

@@ -27,8 +27,9 @@ Suggests: budgie-wallpapers-xenial,
  budgie-wallpapers-groovy,
  budgie-wallpapers-hirsute,
  budgie-wallpapers-impish,
- budgie-wallpapers-jammy
-Depends: budgie-wallpapers-kinetic,
+ budgie-wallpapers-jammy,
+ budgie-wallpapers-kinetic
+Depends: budgie-wallpapers-lunar,
          ${misc:Depends}
 Description: Wallpapers for Ubuntu Budgie
  Package that installs the budgie wallpapers for the current
@@ -144,5 +145,13 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu Budgie 22.10 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 22.10).
+ Selection of wallpapers to showcase Ubuntu Budgie.
+ This package can be installed on any version of Ubuntu.
+
+Package: budgie-wallpapers-lunar
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Budgie 23.04 Wallpapers
+ Team selected wallpapers for Ubuntu Budgie (release 23.04).
  Selection of wallpapers to showcase Ubuntu Budgie.
  This package can be installed on any version of Ubuntu.

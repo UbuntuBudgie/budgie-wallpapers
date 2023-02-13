@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <_name>beach rock</_name>
+    <filename>/usr/share/backgrounds/budgie/beachrock_by_jacob_vlijm.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>coconut on the beach</_name>
+    <filename>/usr/share/backgrounds/budgie/coconut-on-the-beach_by_jakub_kapusnak.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>leaf tip</_name>
+    <filename>/usr/share/backgrounds/budgie/leaf_tip_by_MG_2204_contest.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>old shutters</_name>
+    <filename>/usr/share/backgrounds/budgie/oldshutters_by_jacob_vlijm.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>salt in a glass container</_name>
+    <filename>/usr/share/backgrounds/budgie/salt-in-a-glass-container_by_karolina_grabowska.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>stardust</_name>
+    <filename>/usr/share/backgrounds/budgie/stardust_by_angela_c.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>tables and water</_name>
+    <filename>/usr/share/backgrounds/budgie/tables_and_water_by_alexey_dulin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>warrior door handle</_name>
+    <filename>/usr/share/backgrounds/budgie/warrior_door_handle_by_mattias_andersson.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
