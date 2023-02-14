@@ -2,72 +2,64 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>World Photo Walk Day</_name>
-    <filename>/usr/share/backgrounds/budgie/world_photo_walk_day_by_mr_drizz.jpg</filename>
+    <name>beach rock</name>
+    <filename>/usr/share/backgrounds/budgie/beachrock_by_jacob_vlijm.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Feathers</_name>
-    <filename>/usr/share/backgrounds/budgie/feathers_by_andre_tr.jpg</filename>
+    <name>coconut on the beach</name>
+    <filename>/usr/share/backgrounds/budgie/coconut-on-the-beach_by_jakub_kapusnak.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Impossibly Tall Bridge</_name>
-    <filename>/usr/share/backgrounds/budgie/impossibly_tall_bridge.jpg</filename>
+    <name>leaf tip</name>
+    <filename>/usr/share/backgrounds/budgie/leaf_tip_by_MG_2204_contest.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Playground</_name>
-    <filename>/usr/share/backgrounds/budgie/playground_by_michael_johnson.jpg</filename>
+    <name>old shutters</name>
+    <filename>/usr/share/backgrounds/budgie/oldshutters_by_jacob_vlijm.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Sand</_name>
-    <filename>/usr/share/backgrounds/budgie/sand_by_andre_at_s_xavier.jpg</filename>
+    <name>salt in a glass container</name>
+    <filename>/usr/share/backgrounds/budgie/salt-in-a-glass-container_by_karolina_grabowska.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Speeding Train</_name>
-    <filename>/usr/share/backgrounds/budgie/speeding_train_by_xander_jara.jpg</filename>
+    <name>stardust</name>
+    <filename>/usr/share/backgrounds/budgie/stardust_by_angela_c.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Streaming Butterfly</_name>
-    <filename>/usr/share/backgrounds/budgie/streaming_butterfly_by_xander_jara.jpg</filename>
+    <name>tables and water</name>
+    <filename>/usr/share/backgrounds/budgie/tables_and_water_by_alexey_dulin.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Tarmac</_name>
-    <filename>/usr/share/backgrounds/budgie/tarmac_by_siddharth_arya.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Beach</_name>
-    <filename>/usr/share/backgrounds/budgie/beach_by_siddharth_arya.jpg</filename>
+    <name>warrior door handle</name>
+    <filename>/usr/share/backgrounds/budgie/warrior_door_handle_by_mattias_andersson.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

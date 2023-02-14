@@ -2,7 +2,7 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>Foggy</_name>
+    <name>Foggy</name>
     <filename>/usr/share/backgrounds/budgie/foggy_mountain_ridge_by_rosan_harmens.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -10,7 +10,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Silent</_name>
+    <name>Silent</name>
     <filename>/usr/share/backgrounds/budgie/silent_sunrise_in_the_rainforest_by_eric_li.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -18,7 +18,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Before</_name>
+    <name>Before</name>
     <filename>/usr/share/backgrounds/budgie/before_the_storm_by_matt_hoffman.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -26,7 +26,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Sleeping</_name>
+    <name>Sleeping</name>
     <filename>/usr/share/backgrounds/budgie/sleeping_beauty_by_jordan-whitt.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -34,7 +34,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Beauty</_name>
+    <name>Beauty</name>
     <filename>/usr/share/backgrounds/budgie/beauty_of_mandarins_by_erwan_hesry.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -42,7 +42,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Sundown</_name>
+    <name>Sundown</name>
     <filename>/usr/share/backgrounds/budgie/sundown_beach_by_quino_al.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>

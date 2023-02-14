@@ -2,7 +2,7 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>Xplo_by_Hugo_Cliff</_name>
+    <name>Xplo_by_Hugo_Cliff</name>
     <filename>/usr/share/backgrounds/Xplo_by_Hugo_Cliff.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -10,7 +10,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>ubuntu_budgie_wallpaper1</_name>
+    <name>ubuntu_budgie_wallpaper1</name>
     <filename>/usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper1.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -18,7 +18,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>ubuntu_budgie_wallpaper2</_name>
+    <name>ubuntu_budgie_wallpaper2</name>
     <filename>/usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper2.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -26,7 +26,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>ubuntu_budgie_wallpaper3</_name>
+    <name>ubuntu_budgie_wallpaper3</name>
     <filename>/usr/share/backgrounds/budgie/ubuntu_budgie_wallpaper3.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>

@@ -2,88 +2,80 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>coffee on bench</_name>
-    <filename>/usr/share/backgrounds/budgie/coffee_on_bench_by_mikesh_kaos.jpg</filename>
+    <name>12 Cordas</name>
+    <filename>/usr/share/backgrounds/budgie/12cordas_by_gill_santos.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>camera and spectacles</_name>
-    <filename>/usr/share/backgrounds/budgie/camera_and_spectacles_by_bino_storyteller.jpg</filename>
+    <name>Beacon</name>
+    <filename>/usr/share/backgrounds/budgie/beacon_of_hope_james_pond.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>bike wheel</_name>
-    <filename>/usr/share/backgrounds/budgie/bike_wheel_by_michal_kulesza.jpg</filename>
+    <name>Bercuit Driveway</name>
+    <filename>/usr/share/backgrounds/budgie/bercuit_driveway_by_guy_renard.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>standing by waterfall</_name>
-    <filename>/usr/share/backgrounds/budgie/standing_by_waterfall_by_jared_erondu.jpg</filename>
+    <name>Clock</name>
+    <filename>/usr/share/backgrounds/budgie/desk_clock_by_ryan_mcguire.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>feather on windowsill</_name>
-    <filename>/usr/share/backgrounds/budgie/feather_on_windowsill_by_jill_heyer.jpg</filename>
+    <name>Green Spikey Thing</name>
+    <filename>/usr/share/backgrounds/budgie/green_spikey_thing_by_gill_santos.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>three skydivers</_name>
-    <filename>/usr/share/backgrounds/budgie/three_skydivers_by_didier_baertschiger.jpg</filename>
+    <name>Hipster</name>
+    <filename>/usr/share/backgrounds/budgie/hipster_by_gill_santos.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Quignone the cat</_name>
-    <filename>/usr/share/backgrounds/budgie/quignone_the_cat_by_thomas_jarrand.jpg</filename>
+    <name>Pointy Red</name>
+    <filename>/usr/share/backgrounds/budgie/pointy_red_by_guy_renard.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>watch macro</_name>
-    <filename>/usr/share/backgrounds/budgie/watch_macro_by_peter_heeling.jpg</filename>
+    <name>Stray Dog</name>
+    <filename>/usr/share/backgrounds/budgie/stray_dog_by_radu_galan.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Donald Spotlight</_name>
-    <filename>/usr/share/backgrounds/budgie/donald_spotlight_by_peter_heeling.jpg</filename>
+    <name>Tramea Basilaris</name>
+    <filename>/usr/share/backgrounds/budgie/tramea_basilaris_by_sudhir_reddy.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Colored Water Drop</_name>
-    <filename>/usr/share/backgrounds/budgie/aquamarine_droplet_by_peter_heeling.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Cute Puppy</_name>
-    <filename>/usr/share/backgrounds/budgie/cute_puppy_by_rudy_van_der_veen.jpg</filename>
+    <name>Wintermas</name>
+    <filename>/usr/share/backgrounds/budgie/wintermas_lights_by_radu_galan.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

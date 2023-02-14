@@ -1,3 +1,11 @@
+budgie-wallpapers (23.04.1) lunar; urgency=medium
+
+  * Rework remove distutils from build which caused the 23.04 build failure
+  * Packaging Changes
+    d/control B/D changed from distutils to setuptools
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Tue, 14 Feb 2023 22:45:25 +0000
+
 budgie-wallpapers (23.04) lunar; urgency=medium
 
   * Team Showcase Wallpapers for 23.04

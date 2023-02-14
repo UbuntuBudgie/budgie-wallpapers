@@ -1,5 +1,4 @@
-from distutils.core import setup
-from DistUtilsExtra.command import *
+from setuptools import *
 import glob
 import re
 import os
@@ -16,9 +15,9 @@ setup(
     name = 'budgie-wallpapers',
     version = version,
     data_files=[('share/backgrounds/budgie', glob.glob('*.png')+glob.glob('*.jpg')),
-		('share/backgrounds/budgie', glob.glob('contest/*.xml')),
+		('share/gnome-background-properties', glob.glob('*.xml')),
                ],
-    cmdclass = { "build" : build_extra.build_extra,
-                 "build_i18n" :  build_i18n.build_i18n }
+    cmdclass = {},
+    py_modules=[]
 )
 

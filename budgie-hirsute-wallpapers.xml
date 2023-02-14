@@ -2,96 +2,88 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>beach</_name>
-    <filename>/usr/share/backgrounds/budgie/beach_by_sigisagi.jpg</filename>
+    <name>sea coast</name>
+    <filename>/usr/share/backgrounds/budgie/sea_coast_by_pasquale_vitiello.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>blue sea and clouds</_name>
-    <filename>/usr/share/backgrounds/budgie/blue_sea_and_clouds_by_marxpresso.jpg</filename>
+    <name>himalayan salt on a spoon</name>
+    <filename>/usr/share/backgrounds/budgie/himalayan_salt_on_a_spoon_by_karolina_grabowska.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>coffee</_name>
-    <filename>/usr/share/backgrounds/budgie/coffee_by_sigisagi.jpg</filename>
+    <name>cat on back</name>
+    <filename>/usr/share/backgrounds/budgie/cat_on_back_by_bastian_greshake_tzovaras.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>cut tree</_name>
-    <filename>/usr/share/backgrounds/budgie/cut_tree_by_jacob.jpg</filename>
+    <name>dog by bay</name>
+    <filename>/usr/share/backgrounds/budgie/dog_by_bay_by_matthias_ripp.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>daisies</_name>
-    <filename>/usr/share/backgrounds/budgie/daisies_by_jacob.jpg</filename>
+    <name>abstract lights</name>
+    <filename>/usr/share/backgrounds/budgie/abstract_lights_by_matthias_ripp.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>fence</_name>
-    <filename>/usr/share/backgrounds/budgie/fence_by_jacob.jpg</filename>
+    <name>this is us</name>
+    <filename>/usr/share/backgrounds/budgie/this_is_us_by_alan_levine.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>fern</_name>
-    <filename>/usr/share/backgrounds/budgie/fern_by_sigisagi.jpg</filename>
+    <name>clear water rocks</name>
+    <filename>/usr/share/backgrounds/budgie/clear_water_rocks_by_brodie_vissers.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>in the woods</_name>
-    <filename>/usr/share/backgrounds/budgie/in_the_woods_by_gregor.jpg</filename>
+    <name>city view binoculars</name>
+    <filename>/usr/share/backgrounds/budgie/city_view_binoculars_by_brodie_vissers.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>ladybug</_name>
-    <filename>/usr/share/backgrounds/budgie/ladybug_by_gregor.jpg</filename>
+    <name>living room brick wall</name>
+    <filename>/usr/share/backgrounds/budgie/living_room_brick_wall_by_brodie_vissers.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>mills</_name>
-    <filename>/usr/share/backgrounds/budgie/mills_by_sigisagi.jpg</filename>
+    <name>woman pauses at foot of waterfall</name>
+    <filename>/usr/share/backgrounds/budgie/woman_pauses_at_foot_of_waterfall_by_daria_lisovtsova.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>spray flower</_name>
-    <filename>/usr/share/backgrounds/budgie/spray_flower_by_bakpaul.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>stones in lake and blue mountains</_name>
-    <filename>/usr/share/backgrounds/budgie/stones_in_lake_and_blue_mountains_by_sigisagi.jpg</filename>
+    <name>bulb</name>
+    <filename>/usr/share/backgrounds/budgie/bulb_by_jonathan_petersson.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

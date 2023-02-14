@@ -2,64 +2,64 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>Simplicity</_name>
-    <filename>/usr/share/backgrounds/budgie/simplicity_by_paul_van_de_velde.jpg</filename>
+    <name>forest road</name>
+    <filename>/usr/share/backgrounds/budgie/forest_road_by_monika_murren.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Net</_name>
-    <filename>/usr/share/backgrounds/budgie/net_by_sigi_sagi.jpg</filename>
+    <name>outdoor mineral pool</name>
+    <filename>/usr/share/backgrounds/budgie/outdoor-mineral-pool_by_brodie_vissers.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Cloudy</_name>
-    <filename>/usr/share/backgrounds/budgie/cloudy_hills_by_the5heepdev.jpg</filename>
+    <name>tunnel urban path</name>
+    <filename>/usr/share/backgrounds/budgie/tunnel-urban-path_by_mitul_shah.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Dream</_name>
-    <filename>/usr/share/backgrounds/budgie/dream_by_sigi_sagi.jpg</filename>
+    <name>train trip</name>
+    <filename>/usr/share/backgrounds/budgie/train_trip_by_georgie_pauwels.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Clarity</_name>
-    <filename>/usr/share/backgrounds/budgie/clarity_by_sigi_sagi.jpg</filename>
+    <name>people walk on bright beach</name>
+    <filename>/usr/share/backgrounds/budgie/people-walk-on-bright-beach_by_brodie_vissers.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Busy</_name>
-    <filename>/usr/share/backgrounds/budgie/busy_peals_by_sigi_sagi.jpg</filename>
+    <name>sports 5 6</name>
+    <filename>/usr/share/backgrounds/budgie/sports_5_6_by_matt_moloney.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Wald</_name>
-    <filename>/usr/share/backgrounds/budgie/wald_by_sigi_sagi.jpg</filename>
+    <name>water and coffee</name>
+    <filename>/usr/share/backgrounds/budgie/water_and_coffee_by_alexey_dulin.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Cobweb</_name>
-    <filename>/usr/share/backgrounds/budgie/cobweb_by_sigi_sagi.jpg</filename>
+    <name>mirror walk</name>
+    <filename>/usr/share/backgrounds/budgie/mirror_walk_by_georgie_pauwels.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

@@ -2,80 +2,80 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>12 Cordas</_name>
-    <filename>/usr/share/backgrounds/budgie/12cordas_by_gill_santos.jpg</filename>
+    <name>Bench</name>
+    <filename>/usr/share/backgrounds/budgie/bench_at_the_american_museum_of_natural_history_by_james_pond.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Beacon</_name>
-    <filename>/usr/share/backgrounds/budgie/beacon_of_hope_james_pond.jpg</filename>
+    <name>Unknown Flower</name>
+    <filename>/usr/share/backgrounds/budgie/unknown_flower_by_ngynloc.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Bercuit Driveway</_name>
-    <filename>/usr/share/backgrounds/budgie/bercuit_driveway_by_guy_renard.jpg</filename>
+    <name>Common Kingfisher</name>
+    <filename>/usr/share/backgrounds/budgie/common_kingfisher_by_sudhir_reddy.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Clock</_name>
-    <filename>/usr/share/backgrounds/budgie/desk_clock_by_ryan_mcguire.jpg</filename>
+    <name>Bee with Pink Flower</name>
+    <filename>/usr/share/backgrounds/budgie/pink_bee_flower_by_gil_santos.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Green Spikey Thing</_name>
-    <filename>/usr/share/backgrounds/budgie/green_spikey_thing_by_gill_santos.jpg</filename>
+    <name>bhimtal</name>
+    <filename>/usr/share/backgrounds/budgie/bhimtal_by_anniruddha_kibey.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Hipster</_name>
-    <filename>/usr/share/backgrounds/budgie/hipster_by_gill_santos.jpg</filename>
+    <name>Cycles at sunset</name>
+    <filename>/usr/share/backgrounds/budgie/cycles_at_sunset_by_radu_galan.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Pointy Red</_name>
-    <filename>/usr/share/backgrounds/budgie/pointy_red_by_guy_renard.jpg</filename>
+    <name>Captain Jack The Cat</name>
+    <filename>/usr/share/backgrounds/budgie/captain_jack_the_cat_by_james_pond.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Stray Dog</_name>
-    <filename>/usr/share/backgrounds/budgie/stray_dog_by_radu_galan.jpg</filename>
+    <name>Flat Cycle</name>
+    <filename>/usr/share/backgrounds/budgie/flatcycle_by_guy_renard.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Tramea Basilaris</_name>
-    <filename>/usr/share/backgrounds/budgie/tramea_basilaris_by_sudhir_reddy.jpg</filename>
+    <name>Cyclist and coast trees</name>
+    <filename>/usr/share/backgrounds/budgie/cyclist_and_coast_trees_by_jeena_paradies.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Wintermas</_name>
-    <filename>/usr/share/backgrounds/budgie/wintermas_lights_by_radu_galan.jpg</filename>
+    <name>Bike Spoke</name>
+    <filename>/usr/share/backgrounds/budgie/bike_spoke_by_aniruddha_kibey.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

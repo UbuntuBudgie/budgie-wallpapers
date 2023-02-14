@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-19 21:46+0100\n"
+"POT-Creation-Date: 2023-02-13 23:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -251,4 +251,368 @@ msgstr ""
 
 #: ../budgie-cosmic-wallpapers.xml.in.h:12
 msgid "Skyscraper"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:1
+msgid "coffee on bench"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:2
+msgid "camera and spectacles"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:3
+msgid "bike wheel"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:4
+msgid "standing by waterfall"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:5
+msgid "feather on windowsill"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:6
+msgid "three skydivers"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:7
+msgid "Quignone the cat"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:8
+msgid "watch macro"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:9
+msgid "Donald Spotlight"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:10
+msgid "Colored Water Drop"
+msgstr ""
+
+#: ../budgie-disco-wallpapers.xml.in.h:11
+msgid "Cute Puppy"
+msgstr ""
+
+#: ../budgie-eoan-wallpapers.xml.in.h:1
+msgid "darksky"
+msgstr ""
+
+#: ../budgie-eoan-wallpapers.xml.in.h:2
+msgid "espresso-in-small-cup"
+msgstr ""
+
+#: ../budgie-eoan-wallpapers.xml.in.h:3
+msgid "manuscript"
+msgstr ""
+
+#: ../budgie-eoan-wallpapers.xml.in.h:4
+msgid "window in window"
+msgstr ""
+
+#: ../budgie-eoan-wallpapers.xml.in.h:5
+msgid "peaking sun in lake"
+msgstr ""
+
+#: ../budgie-eoan-wallpapers.xml.in.h:6
+msgid "rough water"
+msgstr ""
+
+#: ../budgie-eoan-wallpapers.xml.in.h:7
+msgid "explore"
+msgstr ""
+
+#: ../budgie-eoan-wallpapers.xml.in.h:8
+msgid "sun throught trees"
+msgstr ""
+
+#: ../budgie-eoan-wallpapers.xml.in.h:9
+msgid "tyre swing"
+msgstr ""
+
+#: ../budgie-eoan-wallpapers.xml.in.h:10
+msgid "sea sky light"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:1
+msgid "all-wheels"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:2
+msgid "priest-sculpture"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:3
+msgid "blue-surface"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:4
+msgid "boat-on-the-beach"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:5
+msgid "spider-web"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:6
+msgid "lonely-tree"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:7
+msgid "mountain-lake"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:8
+msgid "pink-bridge"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:9
+msgid "sunlight-on-the-pages"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:10
+msgid "wooden-construction"
+msgstr ""
+
+#: ../budgie-focal-wallpapers.xml.in.h:11
+msgid "pebbles"
+msgstr ""
+
+#: ../budgie-groovy-wallpapers.xml.in.h:1
+msgid "apo-fraxflame"
+msgstr ""
+
+#: ../budgie-groovy-wallpapers.xml.in.h:2
+msgid "bicycle_bell"
+msgstr ""
+
+#: ../budgie-groovy-wallpapers.xml.in.h:3
+msgid "drop-of-water"
+msgstr ""
+
+#: ../budgie-groovy-wallpapers.xml.in.h:4
+msgid "eglise-saint-honorat"
+msgstr ""
+
+#: ../budgie-groovy-wallpapers.xml.in.h:5
+msgid "harmonica"
+msgstr ""
+
+#: ../budgie-groovy-wallpapers.xml.in.h:6
+msgid "input-section-from-music-equipment"
+msgstr ""
+
+#: ../budgie-groovy-wallpapers.xml.in.h:7
+msgid "left-behind-cocktail-after-the-night"
+msgstr ""
+
+#: ../budgie-groovy-wallpapers.xml.in.h:8
+msgid "selfie-hikers-on-cobblestone-hill"
+msgstr ""
+
+#: ../budgie-groovy-wallpapers.xml.in.h:9
+msgid "trakking"
+msgstr ""
+
+#: ../budgie-groovy-wallpapers.xml.in.h:10
+msgid "walk-to-the-gate"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:1
+msgid "sea coast"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:2
+msgid "himalayan salt on a spoon"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:3
+msgid "cat on back"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:4
+msgid "dog by bay"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:5
+msgid "abstract lights"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:6
+msgid "this is us"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:7
+msgid "clear water rocks"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:8
+msgid "city view binoculars"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:9
+msgid "living room brick wall"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:10
+msgid "woman pauses at foot of waterfall"
+msgstr ""
+
+#: ../budgie-hirsute-wallpapers.xml.in.h:11
+msgid "bulb"
+msgstr ""
+
+#: ../budgie-impish-wallpapers.xml.in.h:1
+msgid "city lights in darnkess"
+msgstr ""
+
+#: ../budgie-impish-wallpapers.xml.in.h:2
+msgid "one-way"
+msgstr ""
+
+#: ../budgie-impish-wallpapers.xml.in.h:3
+msgid "starry night"
+msgstr ""
+
+#: ../budgie-impish-wallpapers.xml.in.h:4
+msgid "iphone photography"
+msgstr ""
+
+#: ../budgie-impish-wallpapers.xml.in.h:5
+msgid "sparkle magic"
+msgstr ""
+
+#: ../budgie-impish-wallpapers.xml.in.h:6
+msgid "trekking"
+msgstr ""
+
+#: ../budgie-impish-wallpapers.xml.in.h:7
+msgid "iso-republic tiny floral bokeh"
+msgstr ""
+
+#: ../budgie-impish-wallpapers.xml.in.h:8
+msgid "blossom"
+msgstr ""
+
+#: ../budgie-impish-wallpapers.xml.in.h:9
+msgid "dog"
+msgstr ""
+
+#: ../budgie-impish-wallpapers.xml.in.h:10
+msgid "alley antique"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:1
+msgid "beach"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:2
+msgid "blue sea and clouds"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:3
+msgid "coffee"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:4
+msgid "cut tree"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:5
+msgid "daisies"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:6
+msgid "fence"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:7
+msgid "fern"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:8
+msgid "in the woods"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:9
+msgid "ladybug"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:10
+msgid "mills"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:11
+msgid "spray flower"
+msgstr ""
+
+#: ../budgie-jammy-wallpapers.xml.in.h:12
+msgid "stones in lake and blue mountains"
+msgstr ""
+
+#: ../budgie-kinetic-wallpapers.xml.in.h:1
+msgid "forest road"
+msgstr ""
+
+#: ../budgie-kinetic-wallpapers.xml.in.h:2
+msgid "outdoor mineral pool"
+msgstr ""
+
+#: ../budgie-kinetic-wallpapers.xml.in.h:3
+msgid "tunnel urban path"
+msgstr ""
+
+#: ../budgie-kinetic-wallpapers.xml.in.h:4
+msgid "train trip"
+msgstr ""
+
+#: ../budgie-kinetic-wallpapers.xml.in.h:5
+msgid "people walk on bright beach"
+msgstr ""
+
+#: ../budgie-kinetic-wallpapers.xml.in.h:6
+msgid "sports 5 6"
+msgstr ""
+
+#: ../budgie-kinetic-wallpapers.xml.in.h:7
+msgid "water and coffee"
+msgstr ""
+
+#: ../budgie-kinetic-wallpapers.xml.in.h:8
+msgid "mirror walk"
+msgstr ""
+
+#: ../budgie-lunar-wallpapers.xml.in.h:1
+msgid "beach rock"
+msgstr ""
+
+#: ../budgie-lunar-wallpapers.xml.in.h:2
+msgid "coconut on the beach"
+msgstr ""
+
+#: ../budgie-lunar-wallpapers.xml.in.h:3
+msgid "leaf tip"
+msgstr ""
+
+#: ../budgie-lunar-wallpapers.xml.in.h:4
+msgid "old shutters"
+msgstr ""
+
+#: ../budgie-lunar-wallpapers.xml.in.h:5
+msgid "salt in a glass container"
+msgstr ""
+
+#: ../budgie-lunar-wallpapers.xml.in.h:6
+msgid "stardust"
+msgstr ""
+
+#: ../budgie-lunar-wallpapers.xml.in.h:7
+msgid "tables and water"
+msgstr ""
+
+#: ../budgie-lunar-wallpapers.xml.in.h:8
+msgid "warrior door handle"
 msgstr ""

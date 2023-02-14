@@ -2,80 +2,80 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>Bench</_name>
-    <filename>/usr/share/backgrounds/budgie/bench_at_the_american_museum_of_natural_history_by_james_pond.jpg</filename>
+    <name>darksky</name>
+    <filename>/usr/share/backgrounds/budgie/darksky_by_bryant_stiven_salazar_aguirre.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Unknown Flower</_name>
-    <filename>/usr/share/backgrounds/budgie/unknown_flower_by_ngynloc.jpg</filename>
+    <name>espresso-in-small-cup</name>
+    <filename>/usr/share/backgrounds/budgie/espresso_in_small_cup_by_brodie_vissers.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Common Kingfisher</_name>
-    <filename>/usr/share/backgrounds/budgie/common_kingfisher_by_sudhir_reddy.jpg</filename>
+    <name>manuscript</name>
+    <filename>/usr/share/backgrounds/budgie/manuscript_by_phan_minh_cuong.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Bee with Pink Flower</_name>
-    <filename>/usr/share/backgrounds/budgie/pink_bee_flower_by_gil_santos.jpg</filename>
+    <name>window in window</name>
+    <filename>/usr/share/backgrounds/budgie/window_in_window_by_stefan_serena.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>bhimtal</_name>
-    <filename>/usr/share/backgrounds/budgie/bhimtal_by_anniruddha_kibey.jpg</filename>
+    <name>peaking sun in lake</name>
+    <filename>/usr/share/backgrounds/budgie/peaking_sun_in_lake_by_eberhard_grossgasteiger.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Cycles at sunset</_name>
-    <filename>/usr/share/backgrounds/budgie/cycles_at_sunset_by_radu_galan.jpg</filename>
+    <name>rough water</name>
+    <filename>/usr/share/backgrounds/budgie/rough_water_by_ryan_mcgilchrist.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Captain Jack The Cat</_name>
-    <filename>/usr/share/backgrounds/budgie/captain_jack_the_cat_by_james_pond.jpg</filename>
+    <name>explore</name>
+    <filename>/usr/share/backgrounds/budgie/explore_by_andrew_neel.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Flat Cycle</_name>
-    <filename>/usr/share/backgrounds/budgie/flatcycle_by_guy_renard.jpg</filename>
+    <name>sun throught trees</name>
+    <filename>/usr/share/backgrounds/budgie/sun_through_trees_by_annie_spratt.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Cyclist and coast trees</_name>
-    <filename>/usr/share/backgrounds/budgie/cyclist_and_coast_trees_by_jeena_paradies.jpg</filename>
+    <name>tyre swing</name>
+    <filename>/usr/share/backgrounds/budgie/tyre_swing_by_scott_webb.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Bike Spoke</_name>
-    <filename>/usr/share/backgrounds/budgie/bike_spoke_by_aniruddha_kibey.jpg</filename>
+    <name>sea sky light</name>
+    <filename>/usr/share/backgrounds/budgie/sea_sky_light_by_didier_baertschiger.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

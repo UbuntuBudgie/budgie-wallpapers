@@ -2,7 +2,7 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>Birds Eye View</_name>
+    <name>Birds Eye View</name>
     <filename>/usr/share/backgrounds/budgie/aerial-shot-asphalt-bird-s-eye-view-1323440cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -10,7 +10,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Bird</_name>
+    <name>Bird</name>
     <filename>/usr/share/backgrounds/budgie/bird-3158784cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -18,7 +18,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Boats</_name>
+    <name>Boats</name>
     <filename>/usr/share/backgrounds/budgie/boats-3051610cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -26,7 +26,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Coffee</_name>
+    <name>Coffee</name>
     <filename>/usr/share/backgrounds/budgie/coffee-802057cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -34,7 +34,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Fish</_name>
+    <name>Fish</name>
     <filename>/usr/share/backgrounds/budgie/fish-3062034cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -42,7 +42,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Gift</_name>
+    <name>Gift</name>
     <filename>/usr/share/backgrounds/budgie/gift-548290cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -50,7 +50,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Green Tea</_name>
+    <name>Green Tea</name>
     <filename>/usr/share/backgrounds/budgie/green-tea-2356770cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -58,7 +58,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Ice Cubes</_name>
+    <name>Ice Cubes</name>
     <filename>/usr/share/backgrounds/budgie/ice-cubes-3506781cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -66,7 +66,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Knowledge</_name>
+    <name>Knowledge</name>
     <filename>/usr/share/backgrounds/budgie/knowledge-1052010cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -74,7 +74,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Mattress</_name>
+    <name>Mattress</name>
     <filename>/usr/share/backgrounds/budgie/mattress-2489615cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -82,7 +82,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Message in a bottle</_name>
+    <name>Message in a bottle</name>
     <filename>/usr/share/backgrounds/budgie/message-in-a-bottle-3437294cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -90,7 +90,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Skyscraper</_name>
+    <name>Skyscraper</name>
     <filename>/usr/share/backgrounds/budgie/skyscraper-3094696cosmic.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>

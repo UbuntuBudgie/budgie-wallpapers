@@ -2,88 +2,80 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>all-wheels</_name>
-    <filename>/usr/share/backgrounds/budgie/all_with_wheels_by_aabhas_lall.jpg</filename>
+    <name>apo-fraxflame</name>
+    <filename>/usr/share/backgrounds/budgie/apo-fraxflame-by-lisa-yount.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>priest-sculpture</_name>
-    <filename>/usr/share/backgrounds/budgie/be-quiet-priest-sculpture-in-venlo_by_raffael_herrmann.jpg</filename>
+    <name>bicycle_bell</name>
+    <filename>/usr/share/backgrounds/budgie/bicycle_bell-by-joanna-m.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>blue-surface</_name>
-    <filename>/usr/share/backgrounds/budgie/blue-surface_by_gurjus_bhasin.jpg</filename>
+    <name>drop-of-water</name>
+    <filename>/usr/share/backgrounds/budgie/drop-of-water-by-rudy-van-der-veen.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>boat-on-the-beach</_name>
-    <filename>/usr/share/backgrounds/budgie/boat-on-the-beach_by_william_beckwith.jpg</filename>
+    <name>eglise-saint-honorat</name>
+    <filename>/usr/share/backgrounds/budgie/eglise-saint-honorat-by-peter-heeling.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>spider-web</_name>
-    <filename>/usr/share/backgrounds/budgie/delicate_by_juan_cabello.jpg</filename>
+    <name>harmonica</name>
+    <filename>/usr/share/backgrounds/budgie/harmonica-by-joanna-m.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>lonely-tree</_name>
-    <filename>/usr/share/backgrounds/budgie/lonely_tree_by_aabhas_lall.jpg</filename>
+    <name>input-section-from-music-equipment</name>
+    <filename>/usr/share/backgrounds/budgie/input-section-from-music-equipment-by-carmelo-muscat.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>mountain-lake</_name>
-    <filename>/usr/share/backgrounds/budgie/mountain-lake_by_william_beckwith.jpg</filename>
+    <name>left-behind-cocktail-after-the-night</name>
+    <filename>/usr/share/backgrounds/budgie/left-behind-cocktail-after-the-night-by-raffael-herrmann.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>pink-bridge</_name>
-    <filename>/usr/share/backgrounds/budgie/pink_bridge_light_by_aabhas_lall.jpg</filename>
+    <name>selfie-hikers-on-cobblestone-hill</name>
+    <filename>/usr/share/backgrounds/budgie/selfie-hikers-on-cobblestone-hill-by-brodie-vissers.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>sunlight-on-the-pages</_name>
-    <filename>/usr/share/backgrounds/budgie/sunlight_on_the_pages_of_an_open_book_by_rahul_pandit.jpg</filename>
+    <name>trakking</name>
+    <filename>/usr/share/backgrounds/budgie/trakking-by-pitchanok.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>wooden-construction</_name>
-    <filename>/usr/share/backgrounds/budgie/wood_construction_by_stephen.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>pebbles</_name>
-    <filename>/usr/share/backgrounds/budgie/pebbles_by_gurjus_bhasin.jpg</filename>
+    <name>walk-to-the-gate</name>
+    <filename>/usr/share/backgrounds/budgie/walk-to-the-gate-by-peter-heeling.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
