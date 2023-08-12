@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 13),
                dh-python,
                python3
 Build-Depends-Indep: python3-setuptools
-Standards-Version: 4.6.0
+Standards-Version: 4.6.2
 Homepage: https://github.com/UbuntuBudgie
 Rules-Requires-Root: no
 Vcs-Browser: https://github.com/UbuntuBudgie/budgie-wallpapers
@@ -28,8 +28,9 @@ Suggests: budgie-wallpapers-xenial,
  budgie-wallpapers-hirsute,
  budgie-wallpapers-impish,
  budgie-wallpapers-jammy,
- budgie-wallpapers-kinetic
-Depends: budgie-wallpapers-lunar,
+ budgie-wallpapers-kinetic,
+ budgie-wallpapers-lunar
+Depends: budgie-wallpapers-mantic,
          ${misc:Depends}
 Description: Wallpapers for Ubuntu Budgie
  Package that installs the budgie wallpapers for the current
@@ -153,5 +154,13 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu Budgie 23.04 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 23.04).
+ Selection of wallpapers to showcase Ubuntu Budgie.
+ This package can be installed on any version of Ubuntu.
+
+Package: budgie-wallpapers-mantic
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Budgie 23.10 Wallpapers
+ Team selected wallpapers for Ubuntu Budgie (release 23.10).
  Selection of wallpapers to showcase Ubuntu Budgie.
  This package can be installed on any version of Ubuntu.

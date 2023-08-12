@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>light rooms</name>
+    <filename>/usr/share/backgrounds/budgie/ai_generated_light_rooms_b1_by_marc_gilligan.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>wooden structure</name>
+    <filename>/usr/share/backgrounds/budgie/ai_generated_wood_struct_t1_by_marc_gilligan.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>antique building</name>
+    <filename>/usr/share/backgrounds/budgie/antigue_building_marko_tabak.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>architecture infrastructures</name>
+    <filename>/usr/share/backgrounds/budgie/architecture_infrastructures_by_tim_allen.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>coffee lattee</name>
+    <filename>/usr/share/backgrounds/budgie/coffee_latte_by_matt_hoffman.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>light bulb</name>
+    <filename>/usr/share/backgrounds/budgie/light_bulb_by_kari_shea.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>old airplane</name>
+    <filename>/usr/share/backgrounds/budgie/old_airplane_by_travis_soule.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>origami</name>
+    <filename>/usr/share/backgrounds/budgie/origami_by_bruno_glatsch.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>rusty old</name>
+    <filename>/usr/share/backgrounds/budgie/rusty_old_by_jim_oreilly.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>wood wooden</name>
+    <filename>/usr/share/backgrounds/budgie/wood_wooden_by_alex_klopcic.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
