@@ -1,3 +1,13 @@
+budgie-wallpapers (24.04) UNRELEASED; urgency=medium
+
+  * Ubuntu Budgie 24.04 Wallpaper Competition
+  * Packaging Changes:
+    - control: add noble package and make it the default
+      install with the equivalent mantic now added as a Suggests
+    - copyright: Add copyright info for the noble wallpapers
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Tue, 19 Mar 2024 20:32:10 +0000
+
 budgie-wallpapers (23.10) mantic; urgency=medium
 
   * Team Showcase Wallpapers for 23.10

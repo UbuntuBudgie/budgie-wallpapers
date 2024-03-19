@@ -285,7 +285,7 @@ License: CC-BY-SA-3.0
  Creative Commons may be contacted at http://creativecommons.org/
 
 Files: debian/*
-Copyright: 2016-2023, David Mohammed <fossfreedom@ubuntu.com>
+Copyright: 2016-2024, David Mohammed <fossfreedom@ubuntu.com>
 License: GPL-2+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -1427,6 +1427,31 @@ Comment: https://stocksnap.io/photo/wood-wooden-RAA02Y0NML
  https://stocksnap.io/faq states the following:
  "All photos on StockSnap have been released under Creative Commons - CC0"
 License: CC0
+
+Files: lighthouse_by_sigi_sagi.jpg
+Copyright: sigisagi
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-24-04-wallpaper-contest
+License: CC-BY-SA-4.0
+
+Files: mountain_by_sigi_sagi.jpg
+Copyright: sigisagi
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-24-04-wallpaper-contest
+License: CC-BY-SA-4.0
+
+Files: ocean_by_sigi_sagi.jpg
+Copyright: sigisagi
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-24-04-wallpaper-contest
+License: CC-BY-SA-4.0
+
+Files: numbat_by_twopiradians.jpg
+Copyright: twopiradians
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-24-04-wallpaper-contest
+License: CC-BY-SA-4.0
+
+Files: road_by_sigi_sagi.jpg
+Copyright: sigisagi
+Comment: https://discourse.ubuntubudgie.org/t/ubuntu-budgie-24-04-wallpaper-contest
+License: CC-BY-SA-4.0
 
 License: CC-BY-SA-4.0
  Unless otherwise indicated, artwork is available under the Creative
