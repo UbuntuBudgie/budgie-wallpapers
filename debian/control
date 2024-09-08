@@ -30,8 +30,9 @@ Suggests: budgie-wallpapers-xenial,
  budgie-wallpapers-jammy,
  budgie-wallpapers-kinetic,
  budgie-wallpapers-lunar,
- budgie-wallpapers-mantic
-Depends: budgie-wallpapers-noble,
+ budgie-wallpapers-mantic,
+ budgie-wallpapers-noble
+Depends: ubuntu-wallpapers-lts-legacy,
          ${misc:Depends}
 Description: Wallpapers for Ubuntu Budgie
  Package that installs the budgie wallpapers for the current
