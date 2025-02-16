@@ -2,11 +2,8 @@ Source: budgie-wallpapers
 Section: misc
 Priority: optional
 Maintainer: David Mohammed <fossfreedom@ubuntu.com>
-Build-Depends: debhelper (>= 13),
-               debhelper-compat (= 13),
-               dh-python,
-               python3
-Build-Depends-Indep: python3-setuptools
+Build-Depends: debhelper (>= 13), debhelper-compat (= 13), dh-python, python3,
+Build-Depends-Indep: python3-setuptools,
 Standards-Version: 4.6.2
 Homepage: https://github.com/UbuntuBudgie
 Rules-Requires-Root: no
@@ -15,9 +12,7 @@ Vcs-Git: https://github.com/UbuntuBudgie/budgie-wallpapers.git
 
 Package: budgie-wallpapers
 Architecture: all
-Suggests: budgie-wallpapers-xenial,
- budgie-wallpapers-yakkety,
- budgie-wallpapers-zesty,
+Suggests:
  budgie-wallpapers-artful,
  budgie-wallpapers-bionic,
  budgie-wallpapers-cosmic,
@@ -31,41 +26,20 @@ Suggests: budgie-wallpapers-xenial,
  budgie-wallpapers-kinetic,
  budgie-wallpapers-lunar,
  budgie-wallpapers-mantic,
- budgie-wallpapers-noble
-Depends: ubuntu-wallpapers-lts-legacy,
-         ${misc:Depends}
+ budgie-wallpapers-noble,
+ budgie-wallpapers-xenial,
+ budgie-wallpapers-yakkety,
+ budgie-wallpapers-zesty,
+ ubuntu-wallpapers-lts-legacy,
+Depends: budgie-wallpapers-plucky, ${misc:Depends},
 Description: Wallpapers for Ubuntu Budgie
  Package that installs the budgie wallpapers for the current
  release together with the default wallpaper for
  Ubuntu Budgie used on the logon, desktop and lock-screen.
 
-Package: budgie-wallpapers-xenial
-Architecture: all
-Depends: ${misc:Depends}
-Description: budgie-remix 16.04.1 Wallpapers
- Wallpapers for budgie-remix (release 16.04.1). Selection of
- community wallpapers to showcase budgie-remix.
- This package can be installed on any version of Ubuntu.
-
-Package: budgie-wallpapers-yakkety
-Architecture: all
-Depends: ${misc:Depends}
-Description: budgie-remix 16.10 Wallpapers
- Community Contest wallpapers for budgie-remix (release 16.10).
- Selection of community wallpapers to showcase budgie-remix.
- This package can be installed on any version of Ubuntu.
-
-Package: budgie-wallpapers-zesty
-Architecture: all
-Depends: ${misc:Depends}
-Description: Ubuntu Budgie 17.04 Wallpapers
- Community Contest wallpapers for Ubuntu Budgie (release 17.04).
- Selection of community wallpapers to showcase Ubuntu Budgie.
- This package can be installed on any version of Ubuntu.
-
 Package: budgie-wallpapers-artful
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 17.10 Wallpapers
  Community Contest wallpapers for Ubuntu Budgie (release 17.10).
  Selection of community wallpapers to showcase Ubuntu Budgie.
@@ -73,7 +47,7 @@ Description: Ubuntu Budgie 17.10 Wallpapers
 
 Package: budgie-wallpapers-bionic
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 18.04 Wallpapers
  Community Contest wallpapers for Ubuntu Budgie (release 18.04).
  Selection of community wallpapers to showcase Ubuntu Budgie.
@@ -81,7 +55,7 @@ Description: Ubuntu Budgie 18.04 Wallpapers
 
 Package: budgie-wallpapers-cosmic
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 18.10 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 18.10).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -89,7 +63,7 @@ Description: Ubuntu Budgie 18.10 Wallpapers
 
 Package: budgie-wallpapers-disco
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 19.04 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 19.04).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -97,7 +71,7 @@ Description: Ubuntu Budgie 19.04 Wallpapers
 
 Package: budgie-wallpapers-eoan
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 19.10 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 19.10).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -105,7 +79,7 @@ Description: Ubuntu Budgie 19.10 Wallpapers
 
 Package: budgie-wallpapers-focal
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 20.04 Wallpapers
  Community selected wallpapers for Ubuntu Budgie (release 20.04).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -113,7 +87,7 @@ Description: Ubuntu Budgie 20.04 Wallpapers
 
 Package: budgie-wallpapers-groovy
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 20.10 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 20.10).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -121,7 +95,7 @@ Description: Ubuntu Budgie 20.10 Wallpapers
 
 Package: budgie-wallpapers-hirsute
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 21.04 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 21.04).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -129,7 +103,7 @@ Description: Ubuntu Budgie 21.04 Wallpapers
 
 Package: budgie-wallpapers-impish
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 21.10 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 21.10).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -137,7 +111,7 @@ Description: Ubuntu Budgie 21.10 Wallpapers
 
 Package: budgie-wallpapers-jammy
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 22.04 Wallpapers
  Wallpaper competition wallpapers for Ubuntu Budgie (release 22.04).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -145,7 +119,7 @@ Description: Ubuntu Budgie 22.04 Wallpapers
 
 Package: budgie-wallpapers-kinetic
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 22.10 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 22.10).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -153,7 +127,7 @@ Description: Ubuntu Budgie 22.10 Wallpapers
 
 Package: budgie-wallpapers-lunar
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 23.04 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 23.04).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -161,7 +135,7 @@ Description: Ubuntu Budgie 23.04 Wallpapers
 
 Package: budgie-wallpapers-mantic
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 23.10 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 23.10).
  Selection of wallpapers to showcase Ubuntu Budgie.
@@ -169,8 +143,40 @@ Description: Ubuntu Budgie 23.10 Wallpapers
 
 Package: budgie-wallpapers-noble
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu Budgie 24.04 Wallpapers
  Wallpaper competition wallpapers for Ubuntu Budgie (release 24.04).
  Selection of wallpapers to showcase Ubuntu Budgie.
+ This package can be installed on any version of Ubuntu.
+
+Package: budgie-wallpapers-plucky
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu Budgie 25.04 Wallpapers
+ Team selected wallpapers for Ubuntu Budgie (release 25.04).
+ Selection of wallpapers to showcase Ubuntu Budgie.
+ This package can be installed on any version of Ubuntu.
+
+Package: budgie-wallpapers-xenial
+Architecture: all
+Depends: ${misc:Depends},
+Description: budgie-remix 16.04.1 Wallpapers
+ Wallpapers for budgie-remix (release 16.04.1). Selection of
+ community wallpapers to showcase budgie-remix.
+ This package can be installed on any version of Ubuntu.
+
+Package: budgie-wallpapers-yakkety
+Architecture: all
+Depends: ${misc:Depends},
+Description: budgie-remix 16.10 Wallpapers
+ Community Contest wallpapers for budgie-remix (release 16.10).
+ Selection of community wallpapers to showcase budgie-remix.
+ This package can be installed on any version of Ubuntu.
+
+Package: budgie-wallpapers-zesty
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu Budgie 17.04 Wallpapers
+ Community Contest wallpapers for Ubuntu Budgie (release 17.04).
+ Selection of community wallpapers to showcase Ubuntu Budgie.
  This package can be installed on any version of Ubuntu.

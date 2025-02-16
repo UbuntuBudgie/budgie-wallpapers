@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>a day on the beach</name>
+    <filename>/usr/share/backgrounds/budgie/a_day_on_beach_by_relja_trdenic.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>sitdown</name>
+    <filename>/usr/share/backgrounds/budgie/sitdown_by_jacob_vlijm.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>skateboard</name>
+    <filename>/usr/share/backgrounds/budgie/skateboard_by_tabea.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>crescent moon</name>
+    <filename>/usr/share/backgrounds/budgie/crescent_moon_by_stephen_rahn.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>sleeping lion</name>
+    <filename>/usr/share/backgrounds/budgie/sleeping_lion_by_yu_chan_chen.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>fence</name>
+    <filename>/usr/share/backgrounds/budgie/fence_by_joanna_foto.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>snow cabin entrance</name>
+    <filename>/usr/share/backgrounds/budgie/snow_cabin_entrance_by_anton_strogonoff.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>isorepublic coffee cake</name>
+    <filename>/usr/share/backgrounds/budgie/isorepublic-coffee-cake-cafe_by_hanny_naibaho.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>witch holding a glass of wine</name>
+    <filename>/usr/share/backgrounds/budgie/witch_holding_a_glass_of_wine_by_joanna_foto.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>lighthouse texel</name>
+    <filename>/usr/share/backgrounds/budgie/lighthouse_texel_by_jacob_vlijm.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
