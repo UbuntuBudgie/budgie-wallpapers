@@ -10,14 +10,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>high-pass</name>
-    <filename>/usr/share/backgrounds/budgie/high_pass_by_acedexplorerabl.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <name>mushroom</name>
     <filename>/usr/share/backgrounds/budgie/mushroom_by_ezspain.jpg</filename>
     <options>zoom</options>
@@ -50,24 +42,8 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>frosty</name>
-    <filename>/usr/share/backgrounds/budgie/frosty_by_acedexplorerabl.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <name>mt shuksan</name>
     <filename>/usr/share/backgrounds/budgie/mt_shuksan_by_ezspain.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>ship to nowhere</name>
-    <filename>/usr/share/backgrounds/budgie/ship_to_nowhere_by_acedexplorerabl.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
