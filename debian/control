@@ -27,11 +27,12 @@ Suggests:
  budgie-wallpapers-lunar,
  budgie-wallpapers-mantic,
  budgie-wallpapers-noble,
+ budgie-wallpapers-plucky,
  budgie-wallpapers-xenial,
  budgie-wallpapers-yakkety,
  budgie-wallpapers-zesty,
  ubuntu-wallpapers-lts-legacy,
-Depends: budgie-wallpapers-plucky, ${misc:Depends},
+Depends: budgie-wallpapers-resolute, ${misc:Depends},
 Description: Wallpapers for Ubuntu Budgie
  Package that installs the budgie wallpapers for the current
  release together with the default wallpaper for
@@ -154,6 +155,14 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu Budgie 25.04 Wallpapers
  Team selected wallpapers for Ubuntu Budgie (release 25.04).
+ Selection of wallpapers to showcase Ubuntu Budgie.
+ This package can be installed on any version of Ubuntu.
+
+Package: budgie-wallpapers-resolute
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu Budgie 26.04 Wallpapers
+ Wallpaper competition wallpapers for Ubuntu Budgie (release 26.04).
  Selection of wallpapers to showcase Ubuntu Budgie.
  This package can be installed on any version of Ubuntu.
 
