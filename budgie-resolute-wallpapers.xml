@@ -26,6 +26,30 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
+    <name>high-pass</name>
+    <filename>/usr/share/backgrounds/budgie/high_pass_by_acedexplorerabl.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>frosty</name>
+    <filename>/usr/share/backgrounds/budgie/frosty_by_acedexplorerabl.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>ship to nowhere</name>
+    <filename>/usr/share/backgrounds/budgie/ship_to_nowhere_by_acedexplorerabl.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
     <name>mount blank from arpy lake</name>
     <filename>/usr/share/backgrounds/budgie/mont_blanc_from_arpy_lake_by_puffettacicciottella.jpg</filename>
     <options>zoom</options>

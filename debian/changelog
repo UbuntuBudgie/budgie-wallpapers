@@ -1,3 +1,13 @@
+budgie-wallpapers (26.04.1) resolute; urgency=medium
+
+  * Ubuntu Budgie 26.04 Wallpaper Competition
+    re-add 3 remaining images that have had their copyright determined
+    by their author
+  * Packaging Changes:
+    d/copyright - add the copyright info for the 3 additional images
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Sat, 14 Mar 2026 12:50:44 +0000
+
 budgie-wallpapers (26.04) resolute; urgency=medium
 
   * Ubuntu Budgie 26.04 Wallpaper Competition
